@@ -16,7 +16,7 @@ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hira
 </style>
 <rect x="0.5" y="0.5" width="429" height="135" rx="12" fill="#0d1117" stroke="#30363d"/>
 <text x="18" y="34" class="repo">bazi-master</text>
-<text x="412" y="34" class="chip" font-weight="700" text-anchor="end" fill="#e3b341">★ 21</text>
+<text x="412" y="34" class="chip" font-weight="700" text-anchor="end" fill="#e3b341">★ 22</text>
 <text x="369.6" y="34" class="label" text-anchor="end">JAVASCRIPT</text>
 <circle cx="286.6" cy="30" r="4" fill="#f1e05a"/>
 <text x="18" y="62" class="body">React + Express + Prisma + PostgreSQL + Redis 全栈应用，mock</text>

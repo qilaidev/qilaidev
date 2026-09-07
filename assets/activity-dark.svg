@@ -22,59 +22,59 @@ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hira
 <line x1="28" y1="156.5" x2="528" y2="156.5" stroke="#21262d"/>
 <rect x="28.00" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1c2330"/>
 <rect x="37.67" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1c2330"/>
-<rect x="47.35" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1c2330"/>
+<rect x="47.35" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1f4b82"/>
 <rect x="57.02" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1f4b82"/>
-<rect x="66.69" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1f4b82"/>
+<rect x="66.69" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1c2330"/>
 <rect x="76.37" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1c2330"/>
 <rect x="86.04" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1c2330"/>
 <rect x="95.71" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1c2330"/>
-<rect x="105.38" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1c2330"/>
-<rect x="115.06" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1f4b82"/>
-<rect x="124.73" y="126.36" width="6.67" height="29.64" rx="1.5" fill="#9ccbff"/>
-<rect x="134.40" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#2f6fb5"/>
+<rect x="105.38" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1f4b82"/>
+<rect x="115.06" y="126.36" width="6.67" height="29.64" rx="1.5" fill="#9ccbff"/>
+<rect x="124.73" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#2f6fb5"/>
+<rect x="134.40" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1f4b82"/>
 <rect x="144.08" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1f4b82"/>
-<rect x="153.75" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1f4b82"/>
-<rect x="163.42" y="152.33" width="6.67" height="3.67" rx="1.5" fill="#2f6fb5"/>
-<rect x="173.10" y="106.19" width="6.67" height="49.81" rx="1.5" fill="#9ccbff"/>
-<rect x="182.77" y="151.72" width="6.67" height="4.28" rx="1.5" fill="#2f6fb5"/>
-<rect x="192.44" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1f4b82"/>
+<rect x="153.75" y="152.33" width="6.67" height="3.67" rx="1.5" fill="#2f6fb5"/>
+<rect x="163.42" y="106.19" width="6.67" height="49.81" rx="1.5" fill="#9ccbff"/>
+<rect x="173.10" y="151.72" width="6.67" height="4.28" rx="1.5" fill="#2f6fb5"/>
+<rect x="182.77" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1f4b82"/>
+<rect x="192.44" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1c2330"/>
 <rect x="202.12" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1c2330"/>
 <rect x="211.79" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1c2330"/>
 <rect x="221.46" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1c2330"/>
-<rect x="231.13" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1c2330"/>
-<rect x="240.81" y="99.17" width="6.67" height="56.83" rx="1.5" fill="#9ccbff"/>
-<rect x="250.48" y="127.58" width="6.67" height="28.42" rx="1.5" fill="#58a6ff"/>
-<rect x="260.15" y="144.39" width="6.67" height="11.61" rx="1.5" fill="#58a6ff"/>
-<rect x="269.83" y="152.64" width="6.67" height="3.36" rx="1.5" fill="#2f6fb5"/>
-<rect x="279.50" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1f4b82"/>
-<rect x="289.17" y="148.06" width="6.67" height="7.94" rx="1.5" fill="#58a6ff"/>
-<rect x="298.85" y="141.64" width="6.67" height="14.36" rx="1.5" fill="#58a6ff"/>
-<rect x="308.52" y="120.86" width="6.67" height="35.14" rx="1.5" fill="#9ccbff"/>
-<rect x="318.19" y="153.86" width="6.67" height="2.14" rx="1.5" fill="#2f6fb5"/>
-<rect x="327.87" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1f4b82"/>
-<rect x="337.54" y="146.53" width="6.67" height="9.47" rx="1.5" fill="#58a6ff"/>
-<rect x="347.21" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1f4b82"/>
-<rect x="356.88" y="149.58" width="6.67" height="6.42" rx="1.5" fill="#2f6fb5"/>
-<rect x="366.56" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1c2330"/>
-<rect x="376.23" y="110.78" width="6.67" height="45.22" rx="1.5" fill="#9ccbff"/>
-<rect x="385.90" y="148.67" width="6.67" height="7.33" rx="1.5" fill="#58a6ff"/>
-<rect x="395.58" y="152.94" width="6.67" height="3.06" rx="1.5" fill="#2f6fb5"/>
-<rect x="405.25" y="129.11" width="6.67" height="26.89" rx="1.5" fill="#58a6ff"/>
-<rect x="414.92" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#2f6fb5"/>
+<rect x="231.13" y="99.17" width="6.67" height="56.83" rx="1.5" fill="#9ccbff"/>
+<rect x="240.81" y="127.58" width="6.67" height="28.42" rx="1.5" fill="#58a6ff"/>
+<rect x="250.48" y="144.39" width="6.67" height="11.61" rx="1.5" fill="#58a6ff"/>
+<rect x="260.15" y="152.64" width="6.67" height="3.36" rx="1.5" fill="#2f6fb5"/>
+<rect x="269.83" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1f4b82"/>
+<rect x="279.50" y="148.06" width="6.67" height="7.94" rx="1.5" fill="#58a6ff"/>
+<rect x="289.17" y="141.64" width="6.67" height="14.36" rx="1.5" fill="#58a6ff"/>
+<rect x="298.85" y="120.86" width="6.67" height="35.14" rx="1.5" fill="#9ccbff"/>
+<rect x="308.52" y="153.86" width="6.67" height="2.14" rx="1.5" fill="#2f6fb5"/>
+<rect x="318.19" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1f4b82"/>
+<rect x="327.87" y="146.53" width="6.67" height="9.47" rx="1.5" fill="#58a6ff"/>
+<rect x="337.54" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1f4b82"/>
+<rect x="347.21" y="149.58" width="6.67" height="6.42" rx="1.5" fill="#58a6ff"/>
+<rect x="356.88" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1c2330"/>
+<rect x="366.56" y="110.78" width="6.67" height="45.22" rx="1.5" fill="#9ccbff"/>
+<rect x="376.23" y="148.67" width="6.67" height="7.33" rx="1.5" fill="#58a6ff"/>
+<rect x="385.90" y="152.94" width="6.67" height="3.06" rx="1.5" fill="#2f6fb5"/>
+<rect x="395.58" y="129.11" width="6.67" height="26.89" rx="1.5" fill="#58a6ff"/>
+<rect x="405.25" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#2f6fb5"/>
+<rect x="414.92" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1c2330"/>
 <rect x="424.60" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1c2330"/>
-<rect x="434.27" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1c2330"/>
-<rect x="443.94" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1f4b82"/>
-<rect x="453.62" y="153.25" width="6.67" height="2.75" rx="1.5" fill="#2f6fb5"/>
-<rect x="463.29" y="119.64" width="6.67" height="36.36" rx="1.5" fill="#9ccbff"/>
-<rect x="472.96" y="90.00" width="6.67" height="66.00" rx="1.5" fill="#9ccbff"/>
-<rect x="482.63" y="128.81" width="6.67" height="27.19" rx="1.5" fill="#58a6ff"/>
-<rect x="492.31" y="148.97" width="6.67" height="7.03" rx="1.5" fill="#58a6ff"/>
-<rect x="501.98" y="153.56" width="6.67" height="2.44" rx="1.5" fill="#2f6fb5"/>
-<rect x="511.65" y="144.69" width="6.67" height="11.31" rx="1.5" fill="#58a6ff"/>
-<rect x="521.33" y="142.25" width="6.67" height="13.75" rx="1.5" fill="#58a6ff"/>
+<rect x="434.27" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#1f4b82"/>
+<rect x="443.94" y="153.25" width="6.67" height="2.75" rx="1.5" fill="#2f6fb5"/>
+<rect x="453.62" y="119.64" width="6.67" height="36.36" rx="1.5" fill="#9ccbff"/>
+<rect x="463.29" y="90.00" width="6.67" height="66.00" rx="1.5" fill="#9ccbff"/>
+<rect x="472.96" y="128.81" width="6.67" height="27.19" rx="1.5" fill="#58a6ff"/>
+<rect x="482.63" y="148.97" width="6.67" height="7.03" rx="1.5" fill="#58a6ff"/>
+<rect x="492.31" y="153.56" width="6.67" height="2.44" rx="1.5" fill="#2f6fb5"/>
+<rect x="501.98" y="144.69" width="6.67" height="11.31" rx="1.5" fill="#58a6ff"/>
+<rect x="511.65" y="140.42" width="6.67" height="15.58" rx="1.5" fill="#58a6ff"/>
+<rect x="521.33" y="152.94" width="6.67" height="3.06" rx="1.5" fill="#2f6fb5"/>
 <text x="28" y="172" class="label" font-size="9px">52 WEEKS AGO</text>
 <text x="528" y="172" class="label" font-size="9px" text-anchor="end">NOW</text>
-<text x="28" y="198" class="num" fill="#e6edf3">1,711</text>
+<text x="28" y="198" class="num" fill="#e6edf3">1,727</text>
 <text x="111.5" y="198" class="label">CONTRIBUTIONS</text>
 <text x="576" y="70" class="label">LANGUAGES · BY BYTES</text>
 <text x="852" y="70" class="label" text-anchor="end">TOP 6 OF 19</text>
@@ -82,7 +82,7 @@ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hira
 <text x="589" y="92" class="chip">Python</text>
 <rect x="672" y="82" width="132" height="8" rx="4" fill="#161b22" stroke="#30363d" stroke-opacity="0.7"/>
 <rect x="672" y="82" width="69.5" height="8" rx="4" fill="#3572A5"/>
-<text x="852" y="92" class="body" font-size="11px" text-anchor="end">52.7%</text>
+<text x="852" y="92" class="body" font-size="11px" text-anchor="end">52.6%</text>
 <circle cx="580" cy="106" r="3.5" fill="#3178c6"/>
 <text x="589" y="110" class="chip">TypeScript</text>
 <rect x="672" y="100" width="132" height="8" rx="4" fill="#161b22" stroke="#30363d" stroke-opacity="0.7"/>
