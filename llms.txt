@@ -7,7 +7,7 @@
 
 - Name / handle: 绮莱 qilai · GitHub: qilaidev
 - Role: software engineer — AI application engineering, AI forward deployed engineering, full-stack delivery
-- Scope: LLM applications, AI agents, multi-agent systems, automation — built and running in production
+- Experience: 4 years of hands-on AI delivery — LLM applications, AI agents, multi-agent systems, automation, built and running in production
 - Timezone: GMT+8
 - Languages: Chinese (native), English (working)
 - Contact: wwtvn1937@gmail.com (email only)
