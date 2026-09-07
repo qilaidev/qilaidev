@@ -111,7 +111,7 @@ FOCUS = ["AI FDE", "AI Agent", "Multi-Agent", "RAG", "LLM Apps", "Automation", "
 
 # (repo, one-line blurb, tags)
 PROJECTS = [
-    ("bazi-master", "React + Express + Prisma + PostgreSQL + Redis 全栈应用，mock / OpenAI / Anthropic 三种 LLM 解读 Provider 可切换，五种界面语言。", ["Full-Stack", "LLM Pipeline", "i18n"]),
+    ("bazi-master", "React + Express + Prisma + PostgreSQL + Redis 全栈应用，三种 LLM 解读 Provider 可切换，五种界面语言。", ["Full-Stack", "LLM Pipeline", "i18n"]),
     ("cleanplate", "本地优先的 AI 视频去水印后端：FastAPI 接单，独立 worker 异步执行，AI 主链不可用时回退到 FFmpeg。", ["FastAPI", "Async Queue", "Fallback"]),
     ("metaphysics-engine", "无状态的术数计算引擎，以 HTTP API、CLI 与 MCP 三种方式接入，OpenAPI 契约由 CI 守快照。", ["MCP", "OpenAPI", "Agent Tool"]),
     ("mac-machina", "自托管的 AI macOS 自动化平台：自然语言触发本地 Bridge 上的数十个系统工具，Agent 层可跑在 Cloudflare Worker。", ["Tool Calling", "TypeScript", "Self-Hosted"]),
@@ -327,10 +327,12 @@ def render_hero(theme: str, d: dict) -> str:
         out.append(s)
         x += w + 6
 
-    out.append(f'<text x="{PAD}" y="190" class="label">GMT+8</text>')
-    out.append(f'<text x="{PAD + 56}" y="190" class="ink">远程全职 · 合同制 · 技术咨询</text>')
+    out.append(f'<text x="{PAD}" y="190" class="label">ZONE</text>')
+    out.append(f'<text x="{PAD + 56}" y="190" class="ink">GMT+8</text>')
     out.append(f'<text x="{PAD}" y="212" class="label">EMAIL</text>')
     out.append(f'<text x="{PAD + 56}" y="212" class="ink mono" fill="{c["accent"]}">{esc(EMAIL)}</text>')
+
+    out.append(f'<line x1="518.5" y1="44" x2="518.5" y2="{HERO_H - 24}" stroke="{c["rule"]}"/>')
 
     tiles = [
         (f'{d["repos"]}', "PUBLIC REPOS", c["accent"]),
@@ -381,14 +383,17 @@ def render_stack(theme: str) -> str:
     out.append(f'<line x1="{PAD}" y1="44" x2="{W - PAD}" y2="44" stroke="{c["rule"]}"/>')
 
     y = 56
-    for label, rows in lanes:
-        out.append(f'<text x="{PAD}" y="{y + 19}" class="label">{esc(label)}</text>')
+    for i, (label, rows) in enumerate(lanes):
+        block = len(rows) * ROW_H
+        out.append(f'<text x="{PAD}" y="{y + block / 2 + 4:.1f}" class="label">{esc(label)}</text>')
         for r, row in enumerate(rows):
             x = float(LANE_X)
             for name, slug, colour, w in row:
                 out.append(chip(x, y + r * ROW_H + 2, name, slug, brand(colour, theme, c), c))
                 x += w + CHIP_GAP
-        y += len(rows) * ROW_H + 12
+        y += block + 12
+        if i < len(lanes) - 1:
+            out.append(f'<line x1="{PAD}" y1="{y - 6.5:.1f}" x2="{W - PAD}" y2="{y - 6.5:.1f}" stroke="{c["rule"]}"/>')
 
     out.append("</svg>")
     return "\n".join(out)
@@ -403,6 +408,8 @@ def render_project(theme: str, p: dict) -> str:
     c = THEMES[theme]
     out = card_open(CARD_W, PROJ_H, c)
     inner = CARD_W - 2 * 18
+    accent = LANG_COLORS.get(p["lang"], c["accent"])
+    out.append(f'<rect x="0.5" y="0.5" width="{CARD_W - 1}" height="3" rx="1.5" fill="{accent}"/>')
     out.append(f'<text x="18" y="34" class="repo">{esc(p["name"])}</text>')
 
     star = f'★ {p["stars"]:,}'

@@ -26,17 +26,18 @@ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hira
 <rect x="267.6" y="138.0" width="59.6" height="18" rx="5" fill="#58a6ff" fill-opacity="0.14" stroke="#58a6ff" stroke-opacity="0.4"/><text x="274.6" y="150.5" class="tag" fill="#58a6ff">LLM Apps</text>
 <rect x="333.2" y="138.0" width="71.0" height="18" rx="5" fill="#58a6ff" fill-opacity="0.14" stroke="#58a6ff" stroke-opacity="0.4"/><text x="340.2" y="150.5" class="tag" fill="#58a6ff">Automation</text>
 <rect x="410.2" y="138.0" width="71.0" height="18" rx="5" fill="#58a6ff" fill-opacity="0.14" stroke="#58a6ff" stroke-opacity="0.4"/><text x="417.2" y="150.5" class="tag" fill="#58a6ff">Full-Stack</text>
-<text x="28" y="190" class="label">GMT+8</text>
-<text x="84" y="190" class="ink">远程全职 · 合同制 · 技术咨询</text>
+<text x="28" y="190" class="label">ZONE</text>
+<text x="84" y="190" class="ink">GMT+8</text>
 <text x="28" y="212" class="label">EMAIL</text>
 <text x="84" y="212" class="ink mono" fill="#58a6ff">wwtvn1937@gmail.com</text>
+<line x1="518.5" y1="44" x2="518.5" y2="212" stroke="#21262d"/>
 <rect x="546" y="44" width="150" height="78" rx="10" fill="#161b22" stroke="#30363d"/>
 <rect x="560" y="60" width="3" height="18" rx="1.5" fill="#58a6ff"/>
 <text x="572" y="78" class="num" fill="#58a6ff">43</text>
 <text x="572" y="102" class="label">PUBLIC REPOS</text>
 <rect x="708" y="44" width="150" height="78" rx="10" fill="#161b22" stroke="#30363d"/>
 <rect x="722" y="60" width="3" height="18" rx="1.5" fill="#e3b341"/>
-<text x="734" y="78" class="num" fill="#e3b341">566</text>
+<text x="734" y="78" class="num" fill="#e3b341">569</text>
 <text x="734" y="102" class="label">STARS</text>
 <rect x="546" y="134" width="150" height="78" rx="10" fill="#161b22" stroke="#30363d"/>
 <rect x="560" y="150" width="3" height="18" rx="1.5" fill="#3fb950"/>

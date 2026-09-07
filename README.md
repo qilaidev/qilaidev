@@ -1,19 +1,19 @@
 <!--
   qilaidev / 绮莱 — GitHub 主页
   · 所有卡片由 scripts/gen_assets.py 生成为自托管 SVG，CI 每周一刷新；正文不写会随时间漂移的数字。
-  · 联系方式只放邮箱。
+  · 联系方式只放邮箱；正文不写求职/招聘相关表述。
 -->
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
-    <img src="assets/hero.svg" alt="绮莱（qilai）— 软件工程师，AI 应用工程化落地与全栈系统交付，常驻 GMT+8，开放远程全职、合同制及技术咨询机会" width="880" />
+    <img src="assets/hero.svg" alt="绮莱（qilai）— 软件工程师，AI 应用工程化落地与全栈系统交付，常驻 GMT+8" width="880" />
   </picture>
 </p>
 
-绮莱（qilai），软件工程师，常驻 GMT+8 时区，开放远程全职、合同制及技术咨询机会。联系邮箱：[wwtvn1937@gmail.com](mailto:wwtvn1937@gmail.com)。
+绮莱（qilai），软件工程师，常驻 GMT+8 时区。联系邮箱：[wwtvn1937@gmail.com](mailto:wwtvn1937@gmail.com)。
 
-专注 AI 应用工程化落地与全栈系统交付，具备 4 年 AI 落地实战经验，覆盖 LLM 应用、AI Agent、多 Agent 系统与智能自动化，可独立完成从需求分析、架构设计、开发实现、AI 能力集成、部署上线到持续迭代的全流程交付，并有真实生产环境项目经验。当前重点方向包括 AI FDE（Forward Deployed Engineering）、AI 应用工程与企业级 AI Agent。同时进行独立研发与提示词工程实践，正在将这些经验沉淀为可复用的工程模板与 Agent 构建范式。
+专注 AI 应用工程化落地与全栈系统交付，覆盖 LLM 应用、AI Agent、多 Agent 系统与智能自动化；从需求分析、架构设计、开发实现、AI 能力集成、部署上线到持续迭代，全流程独立完成，代码跑在真实生产环境里。当前重点方向包括 AI FDE（Forward Deployed Engineering）、AI 应用工程与企业级 AI Agent。同时进行独立研发与提示词工程实践，正在将这些经验沉淀为可复用的工程模板与 Agent 构建范式。
 
 核心能力涵盖 LLM 与 Agent 的关键技术：工具调用、结构化输出、上下文管理、RAG、任务编排及多 Agent 协作。工程实践重点为状态持久化、异步状态机、幂等重试机制与异常兜底，目标是交付可承受实际流量、可观测、易排障的系统。技术选型不追求新颖性，优先考虑稳定性、可维护性、成本与业务回报。工程原则：不追新，追稳；构建有韧性的系统，让 AI 在生产环境中存活；把混沌拆成系统，把系统交给机器。
 

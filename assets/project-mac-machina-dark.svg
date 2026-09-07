@@ -15,6 +15,7 @@ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hira
 .tag{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:9.5px;font-weight:600}
 </style>
 <rect x="0.5" y="0.5" width="429" height="135" rx="12" fill="#0d1117" stroke="#30363d"/>
+<rect x="0.5" y="0.5" width="429" height="3" rx="1.5" fill="#3178c6"/>
 <text x="18" y="34" class="repo">mac-machina</text>
 <text x="412.0" y="34" class="label" text-anchor="end">TYPESCRIPT</text>
 <circle cx="329.0" cy="30" r="4" fill="#3178c6"/>

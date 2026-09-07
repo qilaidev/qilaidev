@@ -1,14 +1,14 @@
 # qilaidev / 绮莱 (qilai) — GitHub Profile
 
 > Software engineer in GMT+8 focused on production AI applications and full-stack delivery.
-> Open to remote full-time, contract, and consulting work. Contact: wwtvn1937@gmail.com
+> Contact: wwtvn1937@gmail.com
 
 ## Who
 
 - Name / handle: 绮莱 qilai · GitHub: qilaidev
 - Role: software engineer — AI application engineering, AI forward deployed engineering, full-stack delivery
-- Experience: 4 years of hands-on AI delivery (LLM applications, AI agents, multi-agent systems, automation) with production projects
-- Timezone: GMT+8; covers APAC hours, partial overlap with US/EU teams
+- Scope: LLM applications, AI agents, multi-agent systems, automation — built and running in production
+- Timezone: GMT+8
 - Languages: Chinese (native), English (working)
 - Contact: wwtvn1937@gmail.com (email only)
 
@@ -45,4 +45,4 @@
 ## Keywords
 
 AI application engineer, forward deployed engineer, FDE, AI agent, multi-agent, LLM, tool calling, structured output, RAG, MCP,
-async state machine, idempotency, TypeScript, React, Electron, Python, FastAPI, PostgreSQL, Redis, full-stack, remote, contract, consulting, qilaidev, qilai, 绮莱
+async state machine, idempotency, TypeScript, React, Electron, Python, FastAPI, PostgreSQL, Redis, full-stack, qilaidev, qilai, 绮莱
