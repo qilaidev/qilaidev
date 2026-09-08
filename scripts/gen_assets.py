@@ -114,8 +114,8 @@ PROJECTS = [
     ("bazi-master", "React + Express + Prisma + PostgreSQL + Redis 全栈应用，三种 LLM 解读 Provider 可切换，五种界面语言。", ["Full-Stack", "LLM Pipeline", "i18n"]),
     ("cleanplate", "本地优先的 AI 视频去水印后端：FastAPI 接单，独立 worker 异步执行，AI 主链不可用时回退到 FFmpeg。", ["FastAPI", "Async Queue", "Fallback"]),
     ("metaphysics-engine", "无状态的术数计算引擎，以 HTTP API、CLI 与 MCP 三种方式接入，OpenAPI 契约由 CI 守快照。", ["MCP", "OpenAPI", "Agent Tool"]),
-    ("mac-machina", "自托管的 AI macOS 自动化平台：自然语言触发本地 Bridge 上的数十个系统工具，Agent 层可跑在 Cloudflare Worker。", ["Tool Calling", "TypeScript", "Self-Hosted"]),
-    ("quant-agent-cli", "面向 AI Agent 调用的合约交易命令面：JSON Schema 输入、结构化错误码、dry-run / testnet 门禁，实盘写路径默认封死。", ["Agent CLI", "Risk-First", "Pydantic"]),
+    ("Auto-Codex", "自主多会话编码代理桌面端：Agent 并行跑在各自的 Git worktree 里，规约驱动拆解任务，跨会话记忆层承接上下文，交付前走自验证 QA 闭环。", ["Multi-Agent", "Memory Layer", "Git Worktree"]),
+    ("x-account-cleaner", "不依赖 API Key 的 X 账号本地清理 CLI：Playwright 驱动真实浏览器会话，推文、点赞、书签与关注分批处理，删除幂等可续跑。", ["Playwright", "Local-First", "Idempotent"]),
     ("bilibili-cleaner", "自托管的账号批量清理工作台：列出、筛选、人工复核、选择性删除，Web UI / API / CLI 三种入口。", ["FastAPI", "Review Gate", "Rate Limit"]),
     ("PromptPanel", "macOS 原生的提示词与片段启动器，全局快捷键唤起，纯本地存储。", ["Swift", "SwiftUI", "Local-First"]),
     ("IDM-Activation-Script-Chinese", "面向大量真实用户的 Windows 脚本套件：GBK 编码适配、注册表备份与回退。", ["Batchfile", "Windows"]),
@@ -163,7 +163,7 @@ def fetch_contributions() -> tuple[int, list[int]] | None:
 
 def collect() -> dict:
     repos = api(f"/users/{USER}/repos?per_page=100&type=owner") or []
-    owned = [r for r in repos if not r.get("fork")]
+    owned = [r for r in repos if not r.get("fork") and not r.get("archived")]
     by_name = {r["name"]: r for r in owned}
     stars = sum(r.get("stargazers_count", 0) for r in owned)
 

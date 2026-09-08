@@ -35,10 +35,9 @@
 - cleanplate — async job queue, worker decoupling, provider fallback (FastAPI + ComfyUI DiffuEraser + FFmpeg fallback)
 - bazi-master — LLM reading pipeline with provider abstraction, full-stack React/Express/Prisma/PostgreSQL/Redis
 - metaphysics-engine — stateless computation engine exposed as HTTP API + CLI + MCP, OpenAPI snapshot guarded in CI
-- quant-agent-cli — agent-callable, risk-first CLI: JSON Schema input, structured error codes, dry-run/testnet gates
-- mac-machina — natural-language tool calling over a local macOS bridge, optional Cloudflare Worker agent layer
-- async-code — derivative of ObservedObserver/async-code: parallel Claude Code / Codex CLI runs in Docker, reviewable patches
-- bilibili-cleaner, x-account-cleaner — bulk operations with review gates, rate limits, idempotent deletes
+- Auto-Codex — autonomous multi-session coding agents: parallel agents in isolated Git worktrees, spec-driven task decomposition, cross-session memory layer, self-verifying QA loop
+- x-account-cleaner — no-API-key X account cleanup CLI: Playwright-driven real browser session, idempotent resumable bulk deletes
+- bilibili-cleaner — bulk operations with review gates, rate limits, idempotent deletes
 - PromptPanel — native macOS prompt/snippet launcher, local-first (Swift/SwiftUI)
 - IDM-Activation-Script-Chinese — widely used Windows script toolkit with registry backup and rollback
 

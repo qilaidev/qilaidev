@@ -15,13 +15,13 @@ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hira
 .tag{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:9.5px;font-weight:600}
 </style>
 <rect x="0.5" y="0.5" width="429" height="135" rx="12" fill="#ffffff" stroke="#d0d7de"/>
-<rect x="0.5" y="0.5" width="429" height="3" rx="1.5" fill="#3572A5"/>
-<text x="18" y="34" class="repo">quant-agent-cli</text>
-<text x="412.0" y="34" class="label" text-anchor="end">PYTHON</text>
-<circle cx="358.6" cy="30" r="4" fill="#3572A5"/>
-<text x="18" y="62" class="body">面向 AI Agent 调用的合约交易命令面：JSON Schema 输入、结构化错</text>
-<text x="18" y="81" class="body">误码、dry-run / testnet 门禁，实盘写路径默认封死。</text>
-<rect x="18.0" y="102.0" width="65.3" height="18" rx="5" fill="#0969da" fill-opacity="0.07" stroke="#0969da" stroke-opacity="0.3"/><text x="25.0" y="114.5" class="tag" fill="#0969da">Agent CLI</text>
-<rect x="89.3" y="102.0" width="71.0" height="18" rx="5" fill="#0969da" fill-opacity="0.07" stroke="#0969da" stroke-opacity="0.3"/><text x="96.3" y="114.5" class="tag" fill="#0969da">Risk-First</text>
-<rect x="166.3" y="102.0" width="59.6" height="18" rx="5" fill="#0969da" fill-opacity="0.07" stroke="#0969da" stroke-opacity="0.3"/><text x="173.3" y="114.5" class="tag" fill="#0969da">Pydantic</text>
+<rect x="0.5" y="0.5" width="429" height="3" rx="1.5" fill="#3178c6"/>
+<text x="18" y="34" class="repo">Auto-Codex</text>
+<text x="412.0" y="34" class="label" text-anchor="end">TYPESCRIPT</text>
+<circle cx="329.0" cy="30" r="4" fill="#3178c6"/>
+<text x="18" y="62" class="body">自主多会话编码代理桌面端：Agent 并行跑在各自的 Git worktree 里</text>
+<text x="18" y="81" class="body">，规约驱动拆解任务，跨会话记忆层承接上下文，交付前走自验证 QA …</text>
+<rect x="18.0" y="102.0" width="76.7" height="18" rx="5" fill="#0969da" fill-opacity="0.07" stroke="#0969da" stroke-opacity="0.3"/><text x="25.0" y="114.5" class="tag" fill="#0969da">Multi-Agent</text>
+<rect x="100.7" y="102.0" width="82.4" height="18" rx="5" fill="#0969da" fill-opacity="0.07" stroke="#0969da" stroke-opacity="0.3"/><text x="107.7" y="114.5" class="tag" fill="#0969da">Memory Layer</text>
+<rect x="189.1" y="102.0" width="82.4" height="18" rx="5" fill="#0969da" fill-opacity="0.07" stroke="#0969da" stroke-opacity="0.3"/><text x="196.1" y="114.5" class="tag" fill="#0969da">Git Worktree</text>
 </svg>
