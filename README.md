@@ -49,12 +49,6 @@
 
 <div align="center">
   <a href="https://github.com/qilaidev/bazi-master"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-bazi-master-dark.svg" /><img src="assets/project-bazi-master.svg" alt="bazi-master：React + Express + Prisma + PostgreSQL + Redis 全栈应用，LLM 解读 Provider 可切换" width="432" /></picture></a>&nbsp;&nbsp;<a href="https://github.com/qilaidev/cleanplate"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-cleanplate-dark.svg" /><img src="assets/project-cleanplate.svg" alt="cleanplate：本地优先的 AI 视频去水印后端，FastAPI + 异步 worker + FFmpeg 回退" width="432" /></picture></a>
-  <br /><br />
-  <a href="https://github.com/qilaidev/metaphysics-engine"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-metaphysics-engine-dark.svg" /><img src="assets/project-metaphysics-engine.svg" alt="metaphysics-engine：无状态术数计算引擎，HTTP API、CLI 与 MCP 三种接入" width="432" /></picture></a>&nbsp;&nbsp;<a href="https://github.com/qilaidev/Auto-Codex"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-auto-codex-dark.svg" /><img src="assets/project-auto-codex.svg" alt="Auto-Codex：自主多会话编码代理，Git worktree 隔离的并行 Agent 与跨会话记忆层" width="432" /></picture></a>
-  <br /><br />
-  <a href="https://github.com/qilaidev/x-account-cleaner"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-x-account-cleaner-dark.svg" /><img src="assets/project-x-account-cleaner.svg" alt="x-account-cleaner：不依赖 API Key 的 X 账号本地清理 CLI，Playwright 驱动真实会话" width="432" /></picture></a>&nbsp;&nbsp;<a href="https://github.com/qilaidev/bilibili-cleaner"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-bilibili-cleaner-dark.svg" /><img src="assets/project-bilibili-cleaner.svg" alt="bilibili-cleaner：自托管账号批量清理工作台，Web UI / API / CLI" width="432" /></picture></a>
-  <br /><br />
-  <a href="https://github.com/qilaidev/PromptPanel"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-promptpanel-dark.svg" /><img src="assets/project-promptpanel.svg" alt="PromptPanel：macOS 原生提示词与片段启动器，本地优先" width="432" /></picture></a>&nbsp;&nbsp;<a href="https://github.com/qilaidev/IDM-Activation-Script-Chinese"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-idm-activation-script-chinese-dark.svg" /><img src="assets/project-idm-activation-script-chinese.svg" alt="IDM-Activation-Script-Chinese：Windows 脚本套件，GBK 编码适配与注册表备份回退" width="432" /></picture></a>
 </div>
 
 <br />
