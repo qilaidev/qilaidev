@@ -48,12 +48,6 @@
 <br />
 
 <div align="center">
-  <a href="https://github.com/qilaidev/bazi-master"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-bazi-master-dark.svg" /><img src="assets/project-bazi-master.svg" alt="bazi-master：React + Express + Prisma + PostgreSQL + Redis 全栈应用，LLM 解读 Provider 可切换" width="432" /></picture></a>&nbsp;&nbsp;<a href="https://github.com/qilaidev/cleanplate"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-cleanplate-dark.svg" /><img src="assets/project-cleanplate.svg" alt="cleanplate：本地优先的 AI 视频去水印后端，FastAPI + 异步 worker + FFmpeg 回退" width="432" /></picture></a>
-</div>
-
-<br />
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg" />
     <img src="assets/activity.svg" alt="近 52 周贡献节奏与公开仓库语言占比，每周自动刷新" width="880" />
