@@ -1,5 +1,5 @@
 <!--
-  qilaidev / 绮莱 — GitHub 主页 (视觉特化版)
+  qilaidev / qlai — GitHub 主页 (视觉特化版)
   · 所有卡片由 scripts/gen_assets.py 生成为自托管 SVG，CI 每周一刷新；正文不写会随时间漂移的数字。
   · 联系方式只放邮箱；正文不写求职/招聘相关表述。
 -->
@@ -7,13 +7,13 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
-    <img src="assets/hero.svg" alt="绮莱（qilai）— 软件工程师，AI 应用工程化落地与全栈系统交付，常驻 GMT+8" width="880" />
+    <img src="assets/hero.svg" alt="qlai — 软件工程师，AI 应用工程化落地与全栈系统交付，常驻 GMT+8" width="880" />
   </picture>
 </div>
 
 <br />
 
-> **绮莱（qilai）** · 软件工程师 · `GMT+8` · <a href="mailto:wwtvn1937@gmail.com">wwtvn1937@gmail.com</a>  
+> **qlai** · 软件工程师 · `GMT+8` · <a href="mailto:wwtvn1937@gmail.com"> wwtvn1937@gmail.com </a>  
 > 专注 **AI 应用工程化落地**与**全栈系统交付**。主导从架构设计、AI 能力编排到生产运维的全链路闭环，聚焦 **AI FDE** 与**企业级 Agent 架构**。
 
 - **`韧性架构`** — 以异步状态机驱动长流程任务，结合状态持久化与幂等重试实现故障自愈；通过多层异常兜底隔离模型输出波动与外部依赖失效，保障业务连续性。
@@ -42,7 +42,7 @@
 </div>
 
 <p align="right">
-  <sub>更多项目见置顶仓库与 <a href="https://github.com/qilaidev?tab=repositories">全部仓库列表 →</a></sub>
+  <sub>更多项目见置顶仓库与 <a href="https://github.com/qilaidev?tab=repositories"> 全部仓库列表 → </a></sub>
 </p>
 
 <div align="center">
