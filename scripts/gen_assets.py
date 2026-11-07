@@ -121,26 +121,48 @@ FOCUS = [
     "Enterprise AI Harness",
 ]
 
-PROJECTS = [
+PROJECTS = []
+
+SYSTEMS = [
     (
-        "PromptPanel",
-        "macOS 原生本地优先（Local-First）多模型上下文与提示词工程工作台：Cmd+Shift+P 全局毫秒级唤起、变量模板、零遥测。",
-        ["SwiftUI", "Local-First", "AI Harness", "macOS"],
+        "01",
+        "/seo",
+        "SEO 与 GEO 全栈深度诊断系统 · Full-Stack SEO & GEO Diagnostics",
+        "剥离 80% 模板假阳性：真实 HTTP 链路探测、无头浏览器 DOM 渲染、SERP 62/160u 预算与 JSON-LD 实体闭环核验",
+        "Protocol & DOM",
+        "accent",
     ),
     (
-        "social-cleaner",
-        "跨平台社媒历史资产合规巡检与批量清理工具（Bilibili + X/Twitter）：支持 --dry-run 预检、本地备份与多维过滤。",
-        ["TypeScript", "Playwright", "Smart Ad Ops", "Compliance"],
+        "02",
+        "/ads",
+        "跨平台智慧投放系统 · Cross-Platform Smart Ad Ops",
+        "X / Facebook / Telegram Ads / Google Ads 审核政策穿透、外层素材 ↔ 落地页首屏 1:1 对齐与 5m 分时算账止损",
+        "Policy & 5m ROI",
+        "amber",
     ),
     (
-        "anyreality-resi-stack",
-        "确定性住宅代理链与 sing-box VLESS-Reality 多路径自托管运维栈：支持 --dry-run 预检、反向验证与 systemd 加固。",
-        ["Bash", "sing-box", "Mobile Matrix", "Edge Infra"],
+        "03",
+        "/oash",
+        "Telegram 频道运营与高度拟人交互 · Channel Ops & Persona Engine",
+        "OASH 多源采集与六维合规筛查流水线 + 24h 作息节律曲线、阅读/打字字节延迟模拟与群聊/私聊双轨记忆交接",
+        "Persona & MTProto",
+        "purple",
     ),
     (
-        "macfriends-cli",
-        "基于 Rust + Objective-C++ 的 macOS 原生客户端状态机探针与会话检索引擎：进程内存与数据库只读解析。",
-        ["Rust", "Obj-C++", "State Probe", "CLI"],
+        "04",
+        "/cloud-matrix",
+        "手机自动化矩阵与云控系统 · Mobile Automation & Edge Matrix",
+        "真机与 ARM 云手机六层解耦：L1–L2 ROM 级确定性硬件指纹锁定、一机一住宅代理 IP、无障碍 + 视觉 OCR 双模状态机",
+        "L1-L6 ROM & Resi",
+        "green",
+    ),
+    (
+        "05",
+        "/workspace",
+        "企业需求管理与「知识 / 技能 / 能力」三库 · Enterprise AI Harness",
+        "内部需求与项目流转留痕 + 单一事实源结构化知识库 (Vault) + 模块化专家技能库 (Skills) + 确定性 CLI 能力库",
+        "Vault · Skills · CLI",
+        "accent",
     ),
 ]
 
@@ -342,27 +364,27 @@ def render_hero(theme: str, d: dict) -> str:
     out.append(f'<rect x="0.5" y="0.5" width="{W - 1}" height="4" rx="2" fill="{c["accent"]}"/>')
 
     out.append(f'<text x="{PAD}" y="76" class="name">{esc(NAME_CJK)}</text>')
-    out.append(f'<text x="{PAD + 118}" y="76" class="handle">{esc(NAME_LATIN)}</text>')
-    out.append(f'<text x="{PAD}" y="108" class="role">确定性系统工程与高信噪比技术诊断 · Deterministic Systems Engineering</text>')
-    x, y = float(PAD), 126.0
+    out.append(f'<text x="{PAD + 98}" y="76" class="handle">{esc(NAME_LATIN)}</text>')
+    out.append(f'<text x="{PAD}" y="106" class="role" font-size="13.5px">确定性系统工程与高信噪比技术诊断 · Deterministic Systems Studio</text>')
+    x, y = float(PAD), 124.0
     for f in FOCUS[:4]:
         s, w = tag(x, y, f, c["accent"], c)
         out.append(s)
         x += w + 6
-    x2, y2 = float(PAD), 150.0
+    x2, y2 = float(PAD), 148.0
     for f in FOCUS[4:]:
         s, w = tag(x2, y2, f, c["purple"], c)
         out.append(s)
         x2 += w + 6
 
-    out.append(f'<text x="{PAD}" y="188" class="label">WEBSITE</text>')
-    out.append(f'<text x="{PAD + 76}" y="188" class="ink mono" fill="{c["accent"]}">{esc(WEBSITE)} (ZH / EN / Notes)</text>')
-    out.append(f'<text x="{PAD}" y="208" class="label">TELEGRAM</text>')
-    out.append(f'<text x="{PAD + 76}" y="208" class="ink mono">{esc(TELEGRAM)}</text>')
-    out.append(f'<text x="{PAD}" y="228" class="label">EMAIL</text>')
-    out.append(f'<text x="{PAD + 76}" y="228" class="ink mono" fill="{c["accent"]}">{esc(EMAIL)}</text>')
+    out.append(f'<text x="{PAD}" y="186" class="label">WEBSITE</text>')
+    out.append(f'<text x="{PAD + 76}" y="186" class="ink mono" fill="{c["accent"]}">{esc(WEBSITE)} (ZH / EN / Notes)</text>')
+    out.append(f'<text x="{PAD}" y="206" class="label">TELEGRAM</text>')
+    out.append(f'<text x="{PAD + 76}" y="206" class="ink mono">{esc(TELEGRAM)}</text>')
+    out.append(f'<text x="{PAD}" y="226" class="label">EMAIL</text>')
+    out.append(f'<text x="{PAD + 76}" y="226" class="ink mono" fill="{c["accent"]}">{esc(EMAIL)}</text>')
 
-    out.append(f'<line x1="518.5" y1="44" x2="518.5" y2="{HERO_H - 24}" stroke="{c["rule"]}"/>')
+    out.append(f'<line x1="518.5" y1="46" x2="518.5" y2="226" stroke="{c["rule"]}"/>')
 
     tiles = [
         (f'{d["repos"]}', "ACTIVE REPOS", c["accent"]),
@@ -370,14 +392,59 @@ def render_hero(theme: str, d: dict) -> str:
         (f'{d["contribs"]:,}', "CONTRIBUTIONS", c["green"]),
         (f'{len(d["langs"])}', "LANGUAGES", c["purple"]),
     ]
-    tx0, ty0, tw_, th, g = 546, 44, 150, 78, 12
+    tx0, ty0, tw_, th, g = 546, 46, 150, 84, 12
     for i, (num, cap, colour) in enumerate(tiles):
         tx = tx0 + (i % 2) * (tw_ + g)
         ty = ty0 + (i // 2) * (th + g)
         out.append(f'<rect x="{tx}" y="{ty}" width="{tw_}" height="{th}" rx="10" fill="{c["box"]}" stroke="{c["border"]}"/>')
-        out.append(f'<rect x="{tx + 14}" y="{ty + 16}" width="3" height="18" rx="1.5" fill="{colour}"/>')
-        out.append(f'<text x="{tx + 26}" y="{ty + 34}" class="num" fill="{colour}">{esc(num)}</text>')
-        out.append(f'<text x="{tx + 26}" y="{ty + 58}" class="label">{esc(cap)}</text>')
+        out.append(f'<rect x="{tx + 14}" y="{ty + 18}" width="3" height="18" rx="1.5" fill="{colour}"/>')
+        out.append(f'<text x="{tx + 26}" y="{ty + 36}" class="num" fill="{colour}">{esc(num)}</text>')
+        out.append(f'<text x="{tx + 26}" y="{ty + 62}" class="label">{esc(cap)}</text>')
+
+    out.append("</svg>")
+    return "\n".join(out)
+
+
+# --------------------------------------------------------------- systems
+
+SYS_ROW_H = 56
+
+
+def render_systems(theme: str) -> str:
+    c = THEMES[theme]
+    height = 46 + len(SYSTEMS) * SYS_ROW_H + 6
+    out = card_open(W, height, c)
+    out.append(f'<text x="{PAD}" y="32" class="kicker">FIVE CORE ENGINEERING SYSTEMS · QILAIDAV.COM</text>')
+    out.append(f'<text x="{W - PAD}" y="32" class="label" text-anchor="end">真实链路探测 · 确定性状态机 · 反向验证</text>')
+    out.append(f'<line x1="{PAD}" y1="44" x2="{W - PAD}" y2="44" stroke="{c["rule"]}"/>')
+
+    y = 46
+    for i, (idx, route, title_str, desc_str, domain_tag, color_key) in enumerate(SYSTEMS):
+        col = c[color_key]
+        badge_w = 138
+        by = y + 12
+        out.append(
+            f'<rect x="{PAD}" y="{by}" width="{badge_w}" height="32" rx="7" fill="{c["box"]}" stroke="{c["border"]}"/>'
+            f'<rect x="{PAD + 9}" y="{by + 8}" width="3" height="16" rx="1.5" fill="{col}"/>'
+            f'<text x="{PAD + 18}" y="{by + 20}" class="mono" font-size="11px" font-weight="700" fill="{col}">{esc(idx)}</text>'
+            f'<text x="{PAD + 38}" y="{by + 20}" class="mono" font-size="11px" font-weight="600" fill="{c["ink"]}">{esc(route)}</text>'
+        )
+        tx = PAD + badge_w + 16
+        out.append(f'<text x="{tx}" y="{y + 23}" class="ink" font-size="12.5px" font-weight="600">{esc(title_str)}</text>')
+        out.append(f'<text x="{tx}" y="{y + 42}" class="body" font-size="11.2px">{esc(desc_str)}</text>')
+
+        tw_tag = tw(domain_tag, 9.5, mono=True) + 14
+        rx = W - PAD - tw_tag
+        ry = y + 10
+        out.append(
+            f'<rect x="{rx:.1f}" y="{ry:.1f}" width="{tw_tag:.1f}" height="18" rx="5" fill="{col}" fill-opacity="{c["chip_fill"]}" '
+            f'stroke="{col}" stroke-opacity="{c["chip_stroke"]}"/>'
+            f'<text x="{rx + 7:.1f}" y="{ry + 12.5:.1f}" class="tag" fill="{col}">{esc(domain_tag)}</text>'
+        )
+
+        y += SYS_ROW_H
+        if i < len(SYSTEMS) - 1:
+            out.append(f'<line x1="{PAD}" y1="{y}" x2="{W - PAD}" y2="{y}" stroke="{c["rule"]}"/>')
 
     out.append("</svg>")
     return "\n".join(out)
@@ -536,7 +603,12 @@ def main() -> int:
     written = []
     for theme in THEMES:
         suffix = "" if theme == "light" else "-dark"
-        outputs = [("hero", render_hero(theme, data)), ("stack", render_stack(theme)), ("activity", render_activity(theme, data))]
+        outputs = [
+            ("hero", render_hero(theme, data)),
+            ("systems", render_systems(theme)),
+            ("stack", render_stack(theme)),
+            ("activity", render_activity(theme, data)),
+        ]
         outputs += [(f"project-{p['name'].lower()}", render_project(theme, p)) for p in data["projects"]]
         for stem, svg in outputs:
             path = ASSETS / f"{stem}{suffix}.svg"
