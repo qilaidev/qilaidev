@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="246" viewBox="0 0 880 246" role="img">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei","Noto Sans CJK SC","Noto Sans SC",Helvetica,Arial,sans-serif}
+.mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}
+.kicker{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:10.5px;letter-spacing:2px;font-weight:700;fill:#58a6ff}
+.label{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:10px;letter-spacing:1.4px;font-weight:600;fill:#6e7681}
+.body{font-size:12px;fill:#8b949e}
+.ink{font-size:12px;fill:#e6edf3}
+.name{font-size:44px;font-weight:700;letter-spacing:-0.8px;fill:#e6edf3}
+.handle{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:20px;font-weight:600;fill:#58a6ff}
+.role{font-size:14.5px;font-weight:600;fill:#e6edf3}
+.num{font-size:26px;font-weight:700;letter-spacing:-0.5px}
+.repo{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:14px;font-weight:700;fill:#58a6ff}
+.chip{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:11px;font-weight:500;fill:#e6edf3}
+.tag{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:9.5px;font-weight:600}
+</style>
+<rect x="0.5" y="0.5" width="879" height="245" rx="12" fill="#0d1117" stroke="#30363d"/>
+<rect x="0.5" y="0.5" width="879" height="4" rx="2" fill="#58a6ff"/>
+<text x="28" y="76" class="name">qilai</text>
+<text x="126" y="76" class="handle">· qilaidav.com</text>
+<text x="28" y="106" class="role" font-size="13.5px">确定性系统工程与高信噪比技术诊断 · Deterministic Systems Studio</text>
+<rect x="28.0" y="124.0" width="122.3" height="18" rx="5" fill="#58a6ff" fill-opacity="0.14" stroke="#58a6ff" stroke-opacity="0.4"/><text x="35.0" y="136.5" class="tag" fill="#58a6ff">Technical SEO &amp; GEO</text>
+<rect x="156.3" y="124.0" width="116.6" height="18" rx="5" fill="#58a6ff" fill-opacity="0.14" stroke="#58a6ff" stroke-opacity="0.4"/><text x="163.3" y="136.5" class="tag" fill="#58a6ff">Headless DOM Audit</text>
+<rect x="278.9" y="124.0" width="82.4" height="18" rx="5" fill="#58a6ff" fill-opacity="0.14" stroke="#58a6ff" stroke-opacity="0.4"/><text x="285.9" y="136.5" class="tag" fill="#58a6ff">Smart Ad Ops</text>
+<rect x="367.3" y="124.0" width="105.2" height="18" rx="5" fill="#58a6ff" fill-opacity="0.14" stroke="#58a6ff" stroke-opacity="0.4"/><text x="374.3" y="136.5" class="tag" fill="#58a6ff">Telegram Persona</text>
+<rect x="28.0" y="148.0" width="88.1" height="18" rx="5" fill="#bc8cff" fill-opacity="0.14" stroke="#bc8cff" stroke-opacity="0.4"/><text x="35.0" y="160.5" class="tag" fill="#bc8cff">Mobile Matrix</text>
+<rect x="122.1" y="148.0" width="133.7" height="18" rx="5" fill="#bc8cff" fill-opacity="0.14" stroke="#bc8cff" stroke-opacity="0.4"/><text x="129.1" y="160.5" class="tag" fill="#bc8cff">Enterprise AI Harness</text>
+<text x="28" y="186" class="label">WEBSITE</text>
+<text x="104" y="186" class="ink mono" fill="#58a6ff">https://qilaidav.com (ZH / EN / Notes)</text>
+<text x="28" y="206" class="label">TELEGRAM</text>
+<text x="104" y="206" class="ink mono">@BD8888 · @AIKB8</text>
+<text x="28" y="226" class="label">EMAIL</text>
+<text x="104" y="226" class="ink mono" fill="#58a6ff">hello@qilaidav.com</text>
+<line x1="518.5" y1="46" x2="518.5" y2="226" stroke="#21262d"/>
+<rect x="546" y="46" width="150" height="84" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="560" y="64" width="3" height="18" rx="1.5" fill="#58a6ff"/>
+<text x="572" y="82" class="num" fill="#58a6ff">11</text>
+<text x="572" y="108" class="label">ACTIVE REPOS</text>
+<rect x="708" y="46" width="150" height="84" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="722" y="64" width="3" height="18" rx="1.5" fill="#e3b341"/>
+<text x="734" y="82" class="num" fill="#e3b341">5</text>
+<text x="734" y="108" class="label">CORE PILLARS</text>
+<rect x="546" y="142" width="150" height="84" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="560" y="160" width="3" height="18" rx="1.5" fill="#3fb950"/>
+<text x="572" y="178" class="num" fill="#3fb950">469</text>
+<text x="572" y="204" class="label">CONTRIBUTIONS</text>
+<rect x="708" y="142" width="150" height="84" rx="10" fill="#161b22" stroke="#30363d"/>
+<rect x="722" y="160" width="3" height="18" rx="1.5" fill="#bc8cff"/>
+<text x="734" y="178" class="num" fill="#bc8cff">14</text>
+<text x="734" y="204" class="label">LANGUAGES</text>
+</svg>

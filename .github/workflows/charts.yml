@@ -1,0 +1,36 @@
+name: Refresh Profile Charts
+
+on:
+  schedule:
+    - cron: '17 3 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Regenerate all visual SVG cards
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/gen_assets.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "qilaidev"
+          git config user.email "183002805+qilaidev@users.noreply.github.com"
+          git add assets/*.svg
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git commit -m "chore: refresh profile charts"
+          git push

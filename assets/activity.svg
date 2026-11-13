@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="214" viewBox="0 0 880 214" role="img">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei","Noto Sans CJK SC","Noto Sans SC",Helvetica,Arial,sans-serif}
+.mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}
+.kicker{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:10.5px;letter-spacing:2px;font-weight:700;fill:#0969da}
+.label{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:10px;letter-spacing:1.4px;font-weight:600;fill:#8c959f}
+.body{font-size:12px;fill:#57606a}
+.ink{font-size:12px;fill:#1f2328}
+.name{font-size:44px;font-weight:700;letter-spacing:-0.8px;fill:#1f2328}
+.handle{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:20px;font-weight:600;fill:#0969da}
+.role{font-size:14.5px;font-weight:600;fill:#1f2328}
+.num{font-size:26px;font-weight:700;letter-spacing:-0.5px}
+.repo{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:14px;font-weight:700;fill:#0969da}
+.chip{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:11px;font-weight:500;fill:#1f2328}
+.tag{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:9.5px;font-weight:600}
+</style>
+<rect x="0.5" y="0.5" width="879" height="213" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+<text x="28" y="34" class="kicker">ACTIVITY &amp; LANGUAGE DISTRIBUTION</text>
+<text x="852" y="34" class="label" text-anchor="end">公开仓库 · 自托管 SVG · 每周自动刷新</text>
+<line x1="28" y1="44" x2="852" y2="44" stroke="#e6eaef"/>
+<text x="28" y="70" class="label">CONTRIBUTIONS · LAST 52 WEEKS</text>
+<line x1="28" y1="156.5" x2="528" y2="156.5" stroke="#e6eaef"/>
+<rect x="28.00" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#e6eaef"/>
+<rect x="37.67" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#9ec5f5"/>
+<rect x="47.35" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#9ec5f5"/>
+<rect x="57.02" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#9ec5f5"/>
+<rect x="66.69" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#9ec5f5"/>
+<rect x="76.37" y="146.00" width="6.67" height="10.00" rx="1.5" fill="#0969da"/>
+<rect x="86.04" y="153.00" width="6.67" height="3.00" rx="1.5" fill="#9ec5f5"/>
+<rect x="95.71" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#e6eaef"/>
+<rect x="105.38" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#e6eaef"/>
+<rect x="115.06" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#e6eaef"/>
+<rect x="124.73" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#e6eaef"/>
+<rect x="134.40" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#e6eaef"/>
+<rect x="144.08" y="90.00" width="6.67" height="66.00" rx="1.5" fill="#0a4a9e"/>
+<rect x="153.75" y="107.00" width="6.67" height="49.00" rx="1.5" fill="#0a4a9e"/>
+<rect x="163.42" y="147.00" width="6.67" height="9.00" rx="1.5" fill="#4f9cf0"/>
+<rect x="173.10" y="147.00" width="6.67" height="9.00" rx="1.5" fill="#4f9cf0"/>
+<rect x="182.77" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#9ec5f5"/>
+<rect x="192.44" y="143.00" width="6.67" height="13.00" rx="1.5" fill="#0969da"/>
+<rect x="202.12" y="130.00" width="6.67" height="26.00" rx="1.5" fill="#0969da"/>
+<rect x="211.79" y="139.00" width="6.67" height="17.00" rx="1.5" fill="#0969da"/>
+<rect x="221.46" y="152.00" width="6.67" height="4.00" rx="1.5" fill="#4f9cf0"/>
+<rect x="231.13" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#e6eaef"/>
+<rect x="240.81" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#e6eaef"/>
+<rect x="250.48" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#e6eaef"/>
+<rect x="260.15" y="153.00" width="6.67" height="3.00" rx="1.5" fill="#9ec5f5"/>
+<rect x="269.83" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#e6eaef"/>
+<rect x="279.50" y="150.00" width="6.67" height="6.00" rx="1.5" fill="#4f9cf0"/>
+<rect x="289.17" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#e6eaef"/>
+<rect x="298.85" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#e6eaef"/>
+<rect x="308.52" y="152.00" width="6.67" height="4.00" rx="1.5" fill="#4f9cf0"/>
+<rect x="318.19" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#e6eaef"/>
+<rect x="327.87" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#e6eaef"/>
+<rect x="337.54" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#e6eaef"/>
+<rect x="347.21" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#e6eaef"/>
+<rect x="356.88" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#e6eaef"/>
+<rect x="366.56" y="113.00" width="6.67" height="43.00" rx="1.5" fill="#0a4a9e"/>
+<rect x="376.23" y="91.00" width="6.67" height="65.00" rx="1.5" fill="#0a4a9e"/>
+<rect x="385.90" y="135.00" width="6.67" height="21.00" rx="1.5" fill="#0969da"/>
+<rect x="395.58" y="141.00" width="6.67" height="15.00" rx="1.5" fill="#0969da"/>
+<rect x="405.25" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#e6eaef"/>
+<rect x="414.92" y="141.00" width="6.67" height="15.00" rx="1.5" fill="#0969da"/>
+<rect x="424.60" y="153.00" width="6.67" height="3.00" rx="1.5" fill="#9ec5f5"/>
+<rect x="434.27" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#9ec5f5"/>
+<rect x="443.94" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#e6eaef"/>
+<rect x="453.62" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#e6eaef"/>
+<rect x="463.29" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#e6eaef"/>
+<rect x="472.96" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#e6eaef"/>
+<rect x="482.63" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#e6eaef"/>
+<rect x="492.31" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#e6eaef"/>
+<rect x="501.98" y="154.00" width="6.67" height="2.00" rx="1.5" fill="#e6eaef"/>
+<rect x="511.65" y="124.00" width="6.67" height="32.00" rx="1.5" fill="#0969da"/>
+<rect x="521.33" y="109.00" width="6.67" height="47.00" rx="1.5" fill="#0a4a9e"/>
+<text x="28" y="172" class="label" font-size="9px">52 WEEKS AGO</text>
+<text x="528" y="172" class="label" font-size="9px" text-anchor="end">NOW</text>
+<text x="28" y="198" class="num" fill="#1f2328">469</text>
+<text x="82.9" y="198" class="label">CONTRIBUTIONS</text>
+<text x="576" y="70" class="label">LANGUAGES · BY BYTES</text>
+<text x="852" y="70" class="label" text-anchor="end">TOP 6 OF 14</text>
+<circle cx="580" cy="88" r="3.5" fill="#3572A5"/>
+<text x="589" y="92" class="chip">Python</text>
+<rect x="672" y="82" width="132" height="8" rx="4" fill="#f6f8fa" stroke="#d0d7de" stroke-opacity="0.7"/>
+<rect x="672" y="82" width="39.9" height="8" rx="4" fill="#3572A5"/>
+<text x="852" y="92" class="body" font-size="11px" text-anchor="end">30.2%</text>
+<circle cx="580" cy="106" r="3.5" fill="#f1e05a"/>
+<text x="589" y="110" class="chip">JavaScript</text>
+<rect x="672" y="100" width="132" height="8" rx="4" fill="#f6f8fa" stroke="#d0d7de" stroke-opacity="0.7"/>
+<rect x="672" y="100" width="31.2" height="8" rx="4" fill="#f1e05a"/>
+<text x="852" y="110" class="body" font-size="11px" text-anchor="end">23.6%</text>
+<circle cx="580" cy="124" r="3.5" fill="#3178c6"/>
+<text x="589" y="128" class="chip">TypeScript</text>
+<rect x="672" y="118" width="132" height="8" rx="4" fill="#f6f8fa" stroke="#d0d7de" stroke-opacity="0.7"/>
+<rect x="672" y="118" width="22.4" height="8" rx="4" fill="#3178c6"/>
+<text x="852" y="128" class="body" font-size="11px" text-anchor="end">16.9%</text>
+<circle cx="580" cy="142" r="3.5" fill="#F05138"/>
+<text x="589" y="146" class="chip">Swift</text>
+<rect x="672" y="136" width="132" height="8" rx="4" fill="#f6f8fa" stroke="#d0d7de" stroke-opacity="0.7"/>
+<rect x="672" y="136" width="21.5" height="8" rx="4" fill="#F05138"/>
+<text x="852" y="146" class="body" font-size="11px" text-anchor="end">16.3%</text>
+<circle cx="580" cy="160" r="3.5" fill="#e34c26"/>
+<text x="589" y="164" class="chip">HTML</text>
+<rect x="672" y="154" width="132" height="8" rx="4" fill="#f6f8fa" stroke="#d0d7de" stroke-opacity="0.7"/>
+<rect x="672" y="154" width="6.3" height="8" rx="4" fill="#e34c26"/>
+<text x="852" y="164" class="body" font-size="11px" text-anchor="end">4.8%</text>
+<circle cx="580" cy="178" r="3.5" fill="#89e051"/>
+<text x="589" y="182" class="chip">Shell</text>
+<rect x="672" y="172" width="132" height="8" rx="4" fill="#f6f8fa" stroke="#d0d7de" stroke-opacity="0.7"/>
+<rect x="672" y="172" width="6.0" height="8" rx="4" fill="#89e051"/>
+<text x="852" y="182" class="body" font-size="11px" text-anchor="end">4.6%</text>
+</svg>

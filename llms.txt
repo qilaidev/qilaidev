@@ -1,0 +1,60 @@
+# qilai · qilaidav (`github.com/qilaidev` & `qilaidav.com`) — AI & LLM Index (`llms.txt`)
+
+> Independent engineering studio founded by qilai (`qilaidav`), specializing in **Deterministic Systems Engineering & High-Signal Technical Diagnostics**: full-stack Technical SEO & GEO diagnostics, cross-platform Smart Ad Ops (X / Facebook / Telegram Ads / Google Ads), Telegram channel operations (OASH) & human-grade persona engines, anti-detect mobile device matrices, and enterprise AI harnesses (Knowledge Vault / Skills / Deterministic CLI Capabilities).
+
+## Identity & Official Channels (`sameAs` Entity Graph)
+
+- **Founder / Architect**: qilai (`qilaidav` / `qilaidev`)
+- **Primary Website (ZH)**: https://qilaidav.com/
+- **Primary Website (EN)**: https://qilaidav.com/en/
+- **Studio Profile & Methodology**: https://qilaidav.com/about/ (EN: https://qilaidav.com/en/about/)
+- **Privacy & Zero-Telemetry Architecture**: https://qilaidav.com/privacy/ (EN: https://qilaidav.com/en/privacy/)
+- **Technical Notes & Production Field Reports (204 Essays)**: https://qilaidav.com/notes/
+- **GitHub Open-Source Matrix**: https://github.com/qilaidev
+- **Direct Telegram (Architect & Inquiries)**: https://t.me/BD8888 (`@BD8888`)
+- **Public Technical Channel (Telegram)**: https://t.me/AIKB8 (`@AIKB8 · AI资源笔记`)
+- **Official Email**: hello@qilaidav.com
+
+## Five Core Engineering Pillars (`qilaidav.com` ↔ `github.com/qilaidev`)
+
+1. **01 · Full-Stack Technical SEO & GEO Diagnostics (`https://qilaidav.com/seo/` | EN: `https://qilaidav.com/en/seo/`)**
+   - Live HTTP chain & redirect tracing, Cloudflare edge cache verification, headless browser DOM rendering, tag-stripped visible character counting, CJK/ASCII SERP 62/160-unit pixel budget enforcement, Schema.org `@id` entity graph auditing, and GEO readiness.
+   - Open-Source Architecture & Index: `https://github.com/qilaidev/qilaidev`
+
+2. **02 · Cross-Platform Smart Ad Ops & Compliance Penetration (`https://qilaidav.com/ads/` | EN: `https://qilaidav.com/en/ads/`)**
+   - Ad review policy pre-flight checks across X (Twitter), Facebook, Telegram Ads, and Google Ads; 1:1 outer ad copy ↔ inner landing page / Bot first-screen DOM alignment; 5-minute dayparting budget control; historical social asset compliance cleanup.
+   - Open-Source Evidence Repository: `https://github.com/qilaidev/social-cleaner` — Cross-platform social account hygiene & compliance pre-flight CLI (`--dry-run` preview, JSON/CSV backups, native Playwright/API execution).
+
+3. **03 · Telegram Channel Ops (OASH) & Human-Grade Persona Engine (`https://qilaidav.com/oash/` | EN: `https://qilaidav.com/en/oash/`)**
+   - OASH multi-source ingestion, 6-dimension compliance filtering, tone rewriting, and staggered scheduling; Human-grade Persona Engine with 24-hour circadian rhythm curves, reading/typing byte delays (`200 ms`), dual-track group/DM memory, and seamless sales handoff.
+   - Open-Source Evidence Repositories: `https://github.com/qilaidev/macfriends-cli` & `https://github.com/qilaidev/social-cleaner`.
+
+4. **04 · Mobile Automation Matrix & Edge Anti-Detect Infrastructure (`https://qilaidav.com/cloud-matrix/` | EN: `https://qilaidav.com/en/cloud-matrix/`)**
+   - 6-layer decoupled mobile & edge architecture: ROM-level deterministic hardware fingerprint locking across reboots (L1–L2), 1-device-1-residential-IP alignment (L3), Android Accessibility node tree + Visual OCR dual-mode state machines (L4–L5), and circuit-breaker self-healing (L6).
+   - Open-Source Evidence Repositories:
+     - `https://github.com/qilaidev/anyreality-resi-stack` — Deterministic residential VPS & sing-box VLESS-Reality self-hosted deployment stack.
+     - `https://github.com/qilaidev/macfriends-cli` — Native macOS client state inspector CLI in Rust + Objective-C++.
+
+5. **05 · Enterprise Requirement Ops & AI Foundation (`https://qilaidav.com/workspace/` | EN: `https://qilaidav.com/en/workspace/`)**
+   - L1 internal requirement & project tracking hub + L2 authoritative structured Knowledge Vault + L3 modular expert SOP Skills Library + L4 deterministic `--dry-run` CLI Capabilities with Negative Testing.
+   - Open-Source Evidence Repository: `https://github.com/qilaidev/PromptPanel` — Native macOS local-first prompt & context snippet workbench (Swift/SwiftUI, `<80ms` latency, zero telemetry).
+
+## Standalone Open-Source Repositories (`github.com/qilaidev`)
+
+- `https://github.com/qilaidev/metaphysics-engine` — Stateless Chinese metaphysics & charting engine (BaZi, Zi Wei Dou Shu, Qi Men Dun Jia, Liu Yao, Da Liu Ren) with HTTP OpenAPI, Agent CLI & MCP.
+- `https://github.com/qilaidev/social-copilot` — Local-first AI social reply browser extension (Chrome/Edge/Firefox MV3) with privacy-preserving context extraction and multi-provider LLM adapters.
+- `https://github.com/qilaidev/whatsapp-localmind` — Read-only macOS WhatsApp group chat & media extractor (CLI + MCP) with sqlite3_backup atomic snapshots and strict DM isolation.
+- `https://github.com/qilaidev/wechat-localmind` — Read-only macOS WeChat group chat & media extractor (CLI + MCP) with SQLCipher offline decryption and strict DM isolation.
+- `https://github.com/qilaidev/totp-authenticator` — Pure-static offline-first 2FA TOTP authenticator (Next.js static export, Web Crypto API, zero telemetry).
+- `https://github.com/qilaidev/cleanplate` — Local-first AI video watermark removal API (FastAPI async queue + ComfyUI/DiffuEraser + FFmpeg fallback).
+
+## First-Party Production Incident Reports (`https://qilaidav.com/notes/`)
+
+- [SPA 0-Char Trap & Build-Time Prerendering](https://qilaidav.com/notes/spa-headless-zero-char-trap.html)
+- [16 Generic SEO Scanner False Positives vs 5 True Blockers](https://qilaidav.com/notes/generic-seo-scanner-false-positives.html)
+- [Cloudflare Origin Rules Edge Cache Bypass & HTTP 520 Post-Mortem](https://qilaidav.com/notes/cloudflare-origin-rules-cache-bypass.html)
+- [Nginx add_header Inheritance Pitfall & Security Header Loss](https://qilaidav.com/notes/nginx-add-header-inheritance-pitfall.html)
+- [ICANN WHOIS DNS Delegation Hijack & Authoritative NS Monitoring](https://qilaidav.com/notes/icann-whois-dns-hijack-defense.html)
+- [Negative Testing: Why Unverified Release Gates Equal Zero](https://qilaidav.com/notes/negative-testing-regex-boundary-lie.html)
+- [From 190 Silent Alerts to a 3-State Deduplicated Alert State Machine](https://qilaidav.com/notes/alert-fatigue-and-silent-failure.html)
+- [ROM-Level Deterministic Hardware Fingerprints vs Random Hooks](https://qilaidav.com/notes/deterministic-device-fingerprint-vs-random.html)
