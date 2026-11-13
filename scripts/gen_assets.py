@@ -131,7 +131,7 @@ STACK = [
     ]),
     ("Languages", [
         ("TypeScript", "typescript", "#3178C6"), ("Python", "python", "#3776AB"),
-        ("JavaScript", "javascript", "#C9B300"), ("Rust", "rust", "#CE422B"),
+        ("JavaScript", "javascript", "#C9B300"), ("HTML", None, "#E34C26"),
         ("Swift", "swift", "#F05138"), ("Bash", "gnubash", "#4EAA25"),
     ]),
     ("App & Web", [
@@ -171,7 +171,7 @@ DOMAINS = [
     {
         "title_zh": "AI 视频生成与多模态管线",
         "title_en": "AI Video & Multimodal",
-        "route": "cleanplate",
+        "route": "/workspace/",
         "desc": "AI 视频生产、动态水印检测、ComfyUI/FFmpeg 时序修复与视觉 QA",
         "schematic": "timeline",
     },

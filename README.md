@@ -47,7 +47,7 @@
 | 项目 | 定位 | 技术栈 |
 |---|---|---|
 | **[cleanplate](https://github.com/qilaidev/cleanplate)** | AI 视频水印检测、ROI 修复与视觉 QA 管线 | Python · FastAPI · ComfyUI · FFmpeg |
-| **[social-copilot](https://github.com/qilaidev/social-copilot)** | 本地 BYOK AI 社交回复扩展（强拟人交互） | TypeScript · Chrome MV3 · pnpm |
+| **[social-copilot](https://github.com/qilaidev/social-copilot)** | 本地 BYOK AI 社交回复扩展（强拟人交互） | TypeScript · Chrome & Edge MV3 · pnpm |
 | **[PromptPanel](https://github.com/qilaidev/PromptPanel)** | macOS 原生 AI 提示词快速启动器 | Swift 5.10 · AppKit · SwiftUI · SQLite |
 | **[wechat-localmind](https://github.com/qilaidev/wechat-localmind)** | 微信群聊只读提取与 MCP Stdio 服务 | Python · SQLCipher 3/4 · MCP |
 | **[whatsapp-localmind](https://github.com/qilaidev/whatsapp-localmind)** | WhatsApp 群聊只读提取与 MCP Stdio 服务 | Python · SQLite · CoreData · MCP |

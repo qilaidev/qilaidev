@@ -45,7 +45,7 @@ text{font-family:-apple-system, BlinkMacSystemFont, 'Inter', 'SF Pro Text', 'Pin
 <text x="44" y="236" font-size="12.5px" font-weight="600" fill="#111827">AI 视频生成与多模态管线</text>
 <text x="44" y="254" class="mono" font-size="10px" font-weight="400" fill="#6B7487">AI Video &amp; Multimodal</text>
 <text x="44" y="278" font-size="11px" fill="#6B7487">AI 视频生产、动态水印检测、ComfyUI/FFmpeg 时序修复与视觉 QA</text>
-<rect x="44.0" y="320.0" width="71.0" height="18" rx="4" fill="#0055B3" fill-opacity="0.06" stroke="#0055B3" stroke-opacity="0.28"/><text x="51.0" y="332.5" class="tag" fill="#0055B3">cleanplate</text>
+<rect x="44.0" y="320.0" width="76.7" height="18" rx="4" fill="#0055B3" fill-opacity="0.06" stroke="#0055B3" stroke-opacity="0.28"/><text x="51.0" y="332.5" class="tag" fill="#0055B3">/workspace/</text>
 <rect x="448" y="208" width="404" height="140" rx="8" fill="#F5F7FA" stroke="#E2E6EE"/>
 <rect x="748" y="222" width="24" height="18" rx="4" fill="#F5F7FA" stroke="#E2E6EE"/>
 <text x="760" y="235" class="mono" font-size="9px" font-weight="500" fill="#0055B3" text-anchor="middle">P</text>

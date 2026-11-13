@@ -41,7 +41,7 @@ text{font-family:-apple-system, BlinkMacSystemFont, 'Inter', 'SF Pro Text', 'Pin
 <line x1="540" y1="184" x2="840" y2="184" stroke="#1A1E28"/>
 <text x="544" y="206" class="mono" font-size="14px" font-weight="600" fill="#EEF0F5">11</text>
 <text x="544" y="220" class="mono" font-size="9px" font-weight="400" fill="#7A8296">Public repos</text>
-<text x="620" y="206" class="mono" font-size="14px" font-weight="600" fill="#EEF0F5">486</text>
+<text x="620" y="206" class="mono" font-size="14px" font-weight="600" fill="#EEF0F5">492</text>
 <text x="620" y="220" class="mono" font-size="9px" font-weight="400" fill="#7A8296">52w commits</text>
 <text x="696" y="206" class="mono" font-size="14px" font-weight="600" fill="#EEF0F5">14</text>
 <text x="696" y="220" class="mono" font-size="9px" font-weight="400" fill="#7A8296">Languages</text>

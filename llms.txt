@@ -88,7 +88,7 @@ Across all 10 public repositories, four invariants apply:
 - **AI Video & Multimodal**: `cleanplate` (Python FastAPI + ComfyUI + FFmpeg).
 - **Human-Grade Persona & Messaging**: `social-copilot` (TypeScript MV3), `wechat-localmind` (Python SQLCipher MCP), `whatsapp-localmind` (Python CoreData MCP).
 - **macOS Desktop & Native Apps**: `PromptPanel` (Swift 5.10 AppKit/SwiftUI NSPanel), `wechat-localmind`, `whatsapp-localmind`.
-- **Linux Server & Self-Hosted Infrastructure**: `anyreality-resi-stack` (Bash + systemd + sing-box), `cleanplate` (FastAPI), `metaphysics-engine` (Node.js Express OpenAPI + MCP).
+- **Linux Server & Self-Hosted Infrastructure**: `anyreality-resi-stack` (Python + Bash + systemd + sing-box), `cleanplate` (FastAPI), `metaphysics-engine` (Node.js Express OpenAPI + MCP).
 - **Cross-Platform Browser, PWA & CLI**: `social-copilot` (Chrome & Edge MV3), `totp-authenticator` (Next.js 16 static PWA + Telegram Mini App), `social-cleaner` (Python + Playwright), `IDM-Activation-Script-Chinese` (Windows Batch + PowerShell).
 
 ## First-Party Production Incident Reports (`https://qilaidav.com/notes/`)
