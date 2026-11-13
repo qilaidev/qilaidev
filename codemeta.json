@@ -1,0 +1,152 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "identifier": "https://github.com/qilaidev/qilaidev",
+  "name": "qilaidev (qilai · qilaidav.com) — Deterministic Systems & Open-Source Ecosystem",
+  "description": "GitHub studio profile, automated SVG telemetry generator, and technical architecture index for qilai (qilaidav.com) spanning Technical SEO & GEO diagnostics, local-first CLI/MCP tools, macOS native productivity apps, and edge proxy infrastructure.",
+  "url": "https://qilaidav.com/",
+  "codeRepository": "https://github.com/qilaidev/qilaidev",
+  "issueTracker": "https://github.com/qilaidev/qilaidev/issues",
+  "license": "https://spdx.org/licenses/MIT",
+  "applicationCategory": "DeveloperApplication",
+  "operatingSystem": [
+    "macOS",
+    "Linux",
+    "Windows",
+    "Web"
+  ],
+  "programmingLanguage": [
+    "Python",
+    "Swift",
+    "TypeScript",
+    "JavaScript",
+    "Shell",
+    "PowerShell"
+  ],
+  "keywords": [
+    "qilaidev",
+    "qilaidav",
+    "systems-engineering",
+    "technical-seo",
+    "geo",
+    "aeo",
+    "llms-txt",
+    "codemeta",
+    "state-machines",
+    "mcp-server",
+    "agent-cli",
+    "local-first",
+    "anti-detect",
+    "automation",
+    "telegram-automation",
+    "open-source"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "name": "qilai",
+      "alternateName": "qilaidev",
+      "url": "https://qilaidav.com/",
+      "email": "hello@qilaidav.com",
+      "sameAs": [
+        "https://qilaidav.com/",
+        "https://github.com/qilaidev",
+        "https://t.me/AIKB8",
+        "https://t.me/BD8888"
+      ]
+    }
+  ],
+  "maintainer": [
+    {
+      "@type": "Person",
+      "name": "qilaidev",
+      "url": "https://github.com/qilaidev",
+      "sameAs": [
+        "https://qilaidav.com/",
+        "https://github.com/qilaidev"
+      ]
+    }
+  ],
+  "hasPart": [
+    {
+      "@type": "SoftwareSourceCode",
+      "name": "anyreality-resi-stack",
+      "codeRepository": "https://github.com/qilaidev/anyreality-resi-stack",
+      "programmingLanguage": ["Shell", "Python"],
+      "license": "https://spdx.org/licenses/GPL-3.0-only",
+      "description": "Multi-path self-hosted sing-box deployment stack with VLESS+REALITY+Vision, Hysteria2, WS+CDN, dual-node routing, selective WARP egress, and adaptive tri-format subscription."
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "name": "PromptPanel",
+      "codeRepository": "https://github.com/qilaidev/PromptPanel",
+      "programmingLanguage": ["Swift", "Python", "Dart"],
+      "license": "https://spdx.org/licenses/MIT",
+      "description": "Native macOS 14+ local-first AI prompt and context snippet workbench built with AppKit, SwiftUI, and local SQLite FTS5."
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "name": "metaphysics-engine",
+      "codeRepository": "https://github.com/qilaidev/metaphysics-engine",
+      "programmingLanguage": "JavaScript",
+      "license": "https://spdx.org/licenses/MIT",
+      "description": "Stateless Chinese metaphysics charting and calculation engine (BaZi, Zi Wei Dou Shu, Qi Men Dun Jia, Liu Yao, Da Liu Ren) with OpenAPI, CLI, and MCP server."
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "name": "social-copilot",
+      "codeRepository": "https://github.com/qilaidev/social-copilot",
+      "programmingLanguage": "TypeScript",
+      "license": "https://spdx.org/licenses/MIT",
+      "description": "Local-first BYOK AI social reply extension for Chrome and Edge (Telegram Web, WhatsApp Web, Slack Web) with context adapters."
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "name": "social-cleaner",
+      "codeRepository": "https://github.com/qilaidev/social-cleaner",
+      "programmingLanguage": "Python",
+      "license": "https://spdx.org/licenses/MIT",
+      "description": "Cross-platform social account hygiene and compliance cleanup CLI for Bilibili and X/Twitter with dry-run, backups, and append-only audit logs."
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "name": "cleanplate",
+      "codeRepository": "https://github.com/qilaidev/cleanplate",
+      "programmingLanguage": "Python",
+      "license": "https://spdx.org/licenses/MIT",
+      "description": "Local-first async AI video watermark detection, inpainting, and QA pipeline built on FastAPI, ComfyUI, and FFmpeg."
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "name": "totp-authenticator",
+      "codeRepository": "https://github.com/qilaidev/totp-authenticator",
+      "programmingLanguage": "TypeScript",
+      "license": "https://spdx.org/licenses/MIT",
+      "description": "Pure-static offline-first RFC 6238 2FA TOTP authenticator PWA and Telegram Mini App powered by browser WebCrypto."
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "name": "wechat-localmind",
+      "codeRepository": "https://github.com/qilaidev/wechat-localmind",
+      "programmingLanguage": "Python",
+      "license": "https://spdx.org/licenses/MIT",
+      "description": "Zero-dependency read-only WeChat 3.x/4.x group chat extractor and MCP Stdio server with SQLCipher offline decryption and strict DM isolation."
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "name": "whatsapp-localmind",
+      "codeRepository": "https://github.com/qilaidev/whatsapp-localmind",
+      "programmingLanguage": "Python",
+      "license": "https://spdx.org/licenses/MIT",
+      "description": "Zero-dependency read-only macOS WhatsApp group chat extractor and MCP Stdio server using atomic sqlite3_backup snapshots and strict DM isolation."
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "name": "IDM-Activation-Script-Chinese",
+      "codeRepository": "https://github.com/qilaidev/IDM-Activation-Script-Chinese",
+      "programmingLanguage": ["Batchfile", "PowerShell"],
+      "license": "https://spdx.org/licenses/GPL-3.0-only",
+      "description": "Simplified Chinese (GBK/CP936) localization of IDM Activation Script supporting freeze trial, activation, reset, and update-check toggles with automatic registry backup."
+    }
+  ]
+}
