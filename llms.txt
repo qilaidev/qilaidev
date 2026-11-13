@@ -1,6 +1,6 @@
 # qilai · qilaidav (`github.com/qilaidev` & `qilaidav.com`) — AI & LLM Index (`llms.txt`)
 
-> Independent engineering studio founded by qilai (`qilaidav`), specializing in **Deterministic Systems Engineering & High-Signal Technical Diagnostics**: full-stack Technical SEO & GEO diagnostics, cross-platform Smart Ad Ops (X / Facebook / Telegram Ads / Google Ads), Telegram channel operations (OASH) & human-grade persona engines, anti-detect mobile device matrices, and local-first enterprise AI tools (CLI / MCP / macOS native).
+> Independent engineering studio founded by qilai (`qilaidav`), specializing in **Growth AI (`增长型 AI`)**, **AI Video Generation & Multimodal Pipelines (`AI 视频生成与多模态管线`)**, **Human-Grade Persona AI (`强拟人交互 AI`)**, and **Full-Stack Technical SEO / GEO Diagnostics**. Built on deterministic state machines, real-link probing, and negative-testing verification gates.
 
 ## Identity & Official Channels (`sameAs` Entity Graph)
 
@@ -16,79 +16,80 @@
 - **Public Technical Channel (Telegram)**: https://t.me/AIKB8 (`@AIKB8 · AI资源笔记`)
 - **Official Email**: hello@qilaidav.com
 
-## Five Core Engineering Pillars (`qilaidav.com` <-> `github.com/qilaidev`)
+## Four Core Expertise Domains (`qilaidav.com` <-> `github.com/qilaidev`)
 
-1. **01 · Full-Stack Technical SEO & GEO Diagnostics (`https://qilaidav.com/seo/` | EN: `https://qilaidav.com/en/seo/`)**
-   - Live HTTP chain & redirect tracing, Cloudflare edge cache verification, headless browser DOM rendering, tag-stripped visible character counting, CJK/ASCII SERP 62/160-unit pixel budget enforcement, Schema.org `@id` entity graph auditing, and GEO readiness (`llms.txt`, `codemeta.json`).
-   - Open-Source Architecture & Profile Index: `https://github.com/qilaidev/qilaidev`
+### 1. Growth AI & Smart Ad Ops (`增长型 AI · /ads/`)
 
-2. **02 · Cross-Platform Smart Ad Ops & Compliance Penetration (`https://qilaidav.com/ads/` | EN: `https://qilaidav.com/en/ads/`)**
-   - Ad review policy pre-flight checks across X (Twitter), Facebook, Telegram Ads, and Google Ads; 1:1 outer ad copy to inner landing page / Bot first-screen DOM alignment; 5-minute dayparting budget control; historical social asset compliance cleanup.
-   - Open-Source Evidence Repositories:
-     - `https://github.com/qilaidev/social-cleaner` — Cross-platform social account hygiene & compliance pre-flight CLI (`--dry-run` preview, JSON/CSV backups, append-only `audit.jsonl`, Playwright/API execution).
-     - `https://github.com/qilaidev/social-copilot` — Local-first AI social reply Chrome & Edge MV3 extension with BYOK adapters and tone presets.
+URL: https://qilaidav.com/ads/ | EN: https://qilaidav.com/en/ads/
 
-3. **03 · Telegram Channel Ops (OASH) & Human-Grade Persona Engine (`https://qilaidav.com/oash/` | EN: `https://qilaidav.com/en/oash/`)**
-   - OASH multi-source ingestion, 6-dimension compliance filtering, tone rewriting, and staggered scheduling; Human-grade Persona Engine with 24-hour circadian rhythm curves, reading/typing byte delays (`200 ms`), dual-track group/DM memory, and seamless sales handoff.
-   - Open-Source Evidence Repositories:
-     - `https://github.com/qilaidev/social-copilot` — Cross-app messaging reply assistant (Telegram Web, WhatsApp Web, Slack Web) with custom persona prompts.
-     - `https://github.com/qilaidev/wechat-localmind` & `https://github.com/qilaidev/whatsapp-localmind` — Read-only group-chat context extraction & MCP Stdio servers.
-     - `https://github.com/qilaidev/social-cleaner` — Historical post/reply hygiene and append-only audit logging.
+Deterministic growth-loop engineering: ad policy pre-flight checks across X (Twitter), Facebook, Telegram Ads, and Google Ads; outer ad copy ↔ inner landing page 1:1 DOM parity verification; 5-minute dayparting budget stop-loss; historical social compliance cleanup; full-channel conversion funnel reconstruction.
 
-4. **04 · Mobile Automation Matrix & Edge Anti-Detect Infrastructure (`https://qilaidav.com/cloud-matrix/` | EN: `https://qilaidav.com/en/cloud-matrix/`)**
-   - 6-layer decoupled mobile & edge architecture: ROM-level deterministic hardware fingerprint locking across reboots (L1-L2), 1-device-1-residential-IP alignment (L3), Android Accessibility node tree + Visual OCR dual-mode state machines (L4-L5), and circuit-breaker self-healing (L6).
-   - Open-Source Evidence Repository:
-     - `https://github.com/qilaidev/anyreality-resi-stack` — Multi-path self-hosted sing-box deployment stack (VLESS+REALITY+Vision, Hysteria2, WS+CDN, dual-node routing, 10-stage `--with-warp`, adaptive tri-format subscription, `redact.sh` secret hygiene).
+Open-Source Evidence:
+- `https://github.com/qilaidev/social-cleaner` — Cross-platform social compliance cleanup CLI for Bilibili & X/Twitter (`--dry-run` preview, JSON/CSV backups, append-only `audit.jsonl`, Playwright/API).
+- `https://github.com/qilaidev/social-copilot` — Local-first BYOK AI social reply extension for Chrome & Edge (Telegram Web, WhatsApp Web, Slack Web).
 
-5. **05 · Enterprise Requirement Ops & AI Foundation (`https://qilaidav.com/workspace/` | EN: `https://qilaidav.com/en/workspace/`)**
-   - L1 internal requirement & project tracking hub + L2 authoritative structured Knowledge Vault + L3 modular expert SOP Skills Library + L4 deterministic CLI/MCP capabilities with zero-telemetry local snapshots.
-   - Open-Source Evidence Repositories:
-     - `https://github.com/qilaidev/PromptPanel` — Native macOS local-first AI prompt workbench (`Swift 5.10 / AppKit / SwiftUI`, `< 300 ms` hotkey-to-focus budget, local SQLite FTS5, optional Python `server/` + Flutter `mobile/`).
-     - `https://github.com/qilaidev/wechat-localmind` & `https://github.com/qilaidev/whatsapp-localmind` — Incremental `--after-id` group-chat indexing & local MCP servers for AI agents.
+### 2. AI Video Generation & Multimodal Pipelines (`AI 视频生成与多模态管线`)
 
-## Public Open-Source Repositories (`github.com/qilaidev` — 10 Active Releases + Profile Index)
+Local-first asynchronous AI video processing: watermark detection, ROI inpainting, visual QA, and batch pipeline orchestration. Built on ComfyUI diffusion backends and FFmpeg media processing with FastAPI async task management.
 
-1. `https://github.com/qilaidev/anyreality-resi-stack` (`Shell / Python · GPL-3.0`) — Self-hosted sing-box deployment stack for residential & DC VPS nodes (`VLESS+REALITY`, `Hysteria2`, `WS+CDN`, `--with-warp`, tri-format subscription).
-2. `https://github.com/qilaidev/PromptPanel` (`Swift 5.10 / AppKit / SwiftUI · MIT`) — Native macOS 14+ global-hotkey prompt & context snippet manager (`⌥2`), local SQLite FTS5, immutable `EntryVersion`, zero required cloud.
-3. `https://github.com/qilaidev/metaphysics-engine` (`JavaScript / Node.js 20+ / Express 4 · MIT`) — Stateless Chinese metaphysics & charting engine (BaZi, Zi Wei Dou Shu, Qi Men Dun Jia, Liu Yao, Da Liu Ren) with HTTP OpenAPI (`docs/openapi.json`), `./bazi` CLI & `./bazi mcp`.
-4. `https://github.com/qilaidev/social-copilot` (`TypeScript / pnpm MV3 · MIT`) — Local-first BYOK AI social reply extension for Chrome & Edge (`Telegram Web`, `WhatsApp Web`, `Slack Web`) with privacy-first local storage.
-5. `https://github.com/qilaidev/social-cleaner` (`Python 3.10+ / Playwright · MIT`) — Compliance hygiene & batch cleanup CLI for Bilibili and X/Twitter (`--dry-run` preview, JSON/CSV backups, append-only `audit.jsonl`).
-6. `https://github.com/qilaidev/cleanplate` (`Python 3.11-3.12 / FastAPI / ComfyUI / FFmpeg · MIT`) — Local-first async AI video watermark removal API & QA pipeline.
-7. `https://github.com/qilaidev/totp-authenticator` (`TypeScript / Next.js 16 / WebCrypto · MIT`) — Pure-static offline-first RFC 6238 2FA TOTP authenticator PWA & Telegram Mini App using `crypto.subtle` with zero telemetry.
-8. `https://github.com/qilaidev/wechat-localmind` (`Python 3.10+ / SQLCipher 3/4 / MCP · MIT`) — Zero-dependency read-only WeChat 3.x/4.x `@chatroom` group extractor & MCP Stdio Server (`CommonCrypto`, `zstd`, `--after-id` cursor, strict DM isolation).
-9. `https://github.com/qilaidev/whatsapp-localmind` (`Python 3.10+ / SQLite CoreData / MCP · MIT`) — Zero-dependency read-only macOS WhatsApp `@g.us` group extractor & MCP Stdio Server (`sqlite3_backup` atomic snapshot, Protobuf wire decoding, strict DM isolation).
-10. `https://github.com/qilaidev/IDM-Activation-Script-Chinese` (`Windows Batch / PowerShell · GPL-3.0`) — Localized Simplified Chinese (GBK/CP936) IDM activation, trial freeze, reset, and update-check toggle script with automatic `.reg` backup.
+Open-Source Evidence:
+- `https://github.com/qilaidev/cleanplate` — Local-first async AI video watermark detection, ROI inpainting, and visual QA pipeline (Python 3.11–3.12 · FastAPI · ComfyUI · FFmpeg · MIT).
+
+### 3. Human-Grade Persona AI (`强拟人交互 AI · /oash/`)
+
+URL: https://qilaidav.com/oash/ | EN: https://qilaidav.com/en/oash/
+
+24-hour circadian rhythm curves, reading/typing byte delays (200 ms), dual-track group/DM memory state machines, OASH multi-source ingestion, 6-dimension compliance filtering, tone rewriting, staggered scheduling, and seamless sales handoff.
+
+Open-Source Evidence:
+- `https://github.com/qilaidev/social-copilot` — Cross-app messaging reply assistant (Telegram Web, WhatsApp Web, Slack Web) with custom persona prompts.
+- `https://github.com/qilaidev/wechat-localmind` — Read-only WeChat 3.x/4.x `@chatroom` group extractor & MCP Stdio server (SQLCipher offline decryption, `zstd`, `--after-id` incremental cursor, strict DM isolation).
+- `https://github.com/qilaidev/whatsapp-localmind` — Read-only macOS WhatsApp `@g.us` group extractor & MCP Stdio server (`sqlite3_backup` atomic snapshot, Protobuf decoding, strict DM isolation).
+
+### 4. Technical SEO & GEO Diagnostics (`全栈技术 SEO/GEO 诊断 · /seo/`)
+
+URL: https://qilaidav.com/seo/ | EN: https://qilaidav.com/en/seo/
+
+Live HTTP chain & redirect tracing, Cloudflare edge cache verification, headless browser DOM rendering, tag-stripped visible character counting, CJK/ASCII SERP 62/160-unit pixel budget enforcement, Schema.org `@id` entity graph auditing, and GEO readiness (`llms.txt`, `codemeta.json`). 204 production field-tested technical notes.
+
+Open-Source Architecture Index: `https://github.com/qilaidev/qilaidev`
+
+## Public Open-Source Repositories (`github.com/qilaidev` — 10 Active + Profile Index)
+
+1. `https://github.com/qilaidev/cleanplate` (`Python 3.11–3.12 / FastAPI / ComfyUI / FFmpeg · MIT`) — Local-first async AI video watermark detection, ROI inpainting, and visual QA pipeline. Core **AI Video Generation** infrastructure.
+2. `https://github.com/qilaidev/social-copilot` (`TypeScript / pnpm / MV3 · MIT`) — Local-first BYOK AI social reply extension for Chrome & Edge (Telegram Web, WhatsApp Web, Slack Web). Core **Human-Grade Persona** tool.
+3. `https://github.com/qilaidev/PromptPanel` (`Swift 5.10 / AppKit / SwiftUI · MIT`) — Native macOS 14+ global-hotkey (`⌥2`) prompt & snippet launcher with local SQLite FTS5, immutable `EntryVersion` history, optional self-hosted Python sync.
+4. `https://github.com/qilaidev/wechat-localmind` (`Python 3.10+ / SQLCipher 3/4 / MCP · MIT`) — Zero-dependency read-only WeChat 3.x/4.x group extractor & MCP Stdio Server (`CommonCrypto`, `zstd`, `--after-id` cursor, strict DM isolation). Core **Human-Grade Persona** intelligence layer.
+5. `https://github.com/qilaidev/whatsapp-localmind` (`Python 3.10+ / SQLite CoreData / MCP · MIT`) — Zero-dependency read-only macOS WhatsApp `@g.us` group extractor & MCP Stdio Server (`sqlite3_backup` atomic snapshot, Protobuf decoding, strict DM isolation).
+6. `https://github.com/qilaidev/social-cleaner` (`Python 3.10+ / Playwright · MIT`) — Cross-platform compliance hygiene CLI for Bilibili & X/Twitter (`--dry-run` preview, JSON/CSV backups, append-only `audit.jsonl`).
+7. `https://github.com/qilaidev/anyreality-resi-stack` (`Shell / Python / systemd · GPL-3.0`) — Self-hosted sing-box deployment stack (`VLESS+REALITY+Vision`, `Hysteria2`, `WS+CDN`), residential/DC dual-node split, 10-stage `--with-warp`, adaptive tri-format subscription.
+8. `https://github.com/qilaidev/totp-authenticator` (`TypeScript / Next.js 16 / WebCrypto · MIT`) — Pure-static offline-first RFC 6238 2FA TOTP authenticator PWA & Telegram Mini App using `crypto.subtle` with zero telemetry.
+9. `https://github.com/qilaidev/metaphysics-engine` (`JavaScript / Node.js 20+ / Express 4 · MIT`) — Stateless Chinese metaphysics engine (BaZi, Zi Wei Dou Shu, Qi Men Dun Jia, Liu Yao, Da Liu Ren) with OpenAPI, `./bazi` CLI & `./bazi mcp`.
+10. `https://github.com/qilaidev/IDM-Activation-Script-Chinese` (`Windows Batch / PowerShell · GPL-3.0`) — Simplified Chinese (GBK/CP936) IDM activation, trial freeze, registry reset & update-check toggle with automatic `.reg` backup.
 - `https://github.com/qilaidev/qilaidev` (`Python / SVG Automation · MIT`) — Studio GitHub profile, weekly automated SVG telemetry cards (`scripts/gen_assets.py`), and `qilaidav.com` architecture index.
 
-## Engineering Design Principles & Machine Entrypoints
+## Engineering Design Principles
 
-Across all 10 public open-source repositories and 5 studio pillars, `qilaidev` applies four engineering invariants:
+Across all 10 public repositories, four invariants apply:
 
-1. **Local-First & Zero Telemetry**: User prompts (`PromptPanel` SQLite FTS5), 2FA secrets (`totp-authenticator` `crypto.subtle` WebCrypto), messaging context (`wechat-localmind` SQLCipher / `whatsapp-localmind` `sqlite3_backup`), and browser reply keys (`social-copilot` BYOK MV3) remain on user-controlled storage.
-2. **Read-Only & Explicit Preview Safety**: Group extractors (`wechat-localmind`, `whatsapp-localmind`) enforce group-only (`@chatroom` / `@g.us`) isolation on local snapshots; social hygiene (`social-cleaner`) gates execution behind `--dry-run`, JSON/CSV backups, and append-only `audit.jsonl`; proxy builds (`anyreality-resi-stack`) enforce `scripts/redact.sh` secret hygiene and 107 stdlib unit tests.
-3. **Machine-Callable Agent Interfaces**: `wechat-localmind`, `whatsapp-localmind`, and `metaphysics-engine` provide structured CLI & MCP Stdio servers (`./bazi mcp` + `docs/openapi.json`) ready for AI agent workflows without brittle scraping.
-4. **Machine-Readable Discoverability (`GEO / AEO`)**: Active public repositories publish `llms.txt` AI summary indexes, with CodeMeta 2.0 (`codemeta.json`) and Schema.org JSON-LD metadata linking GitHub repositories cleanly to `https://qilaidav.com/`.
+1. **Local-First & Zero Telemetry**: User prompts (`PromptPanel` SQLite FTS5), 2FA secrets (`totp-authenticator` `crypto.subtle`), messaging context (`wechat-localmind` SQLCipher / `whatsapp-localmind` `sqlite3_backup`), and browser reply keys (`social-copilot` BYOK MV3) remain on user-controlled storage.
+2. **Read-Only & Explicit Preview Safety**: Group extractors enforce group-only (`@chatroom` / `@g.us`) isolation; `social-cleaner` gates execution behind `--dry-run`, JSON/CSV backups, and append-only `audit.jsonl`; `anyreality-resi-stack` enforces `scripts/redact.sh` secret hygiene and 107 stdlib unit tests.
+3. **Machine-Callable Agent Interfaces**: `wechat-localmind`, `whatsapp-localmind`, and `metaphysics-engine` provide structured CLI & MCP Stdio servers (`./bazi mcp` + `docs/openapi.json`) ready for AI agent workflows.
+4. **Machine-Readable Discoverability (GEO/AEO)**: Active public repositories publish `llms.txt` AI summary indexes with CodeMeta 2.0 (`codemeta.json`) and Schema.org JSON-LD metadata linking to `https://qilaidav.com/`.
 
-## Weekly Profile Automation & CI Verification (`github.com/qilaidev/qilaidev`)
+## Weekly Profile Automation & CI Verification
 
-- **SVG Telemetry Cards (`scripts/gen_assets.py`)**: Generates 880px light/dark SVG cards (`hero`, `systems`, `stack`, `activity`) refreshed weekly via `.github/workflows/charts.yml`.
-- **Profile CI Gate (`.github/workflows/ci.yml`)**: Validates non-empty `README.md`, forbids secret/stale placeholders, verifies every referenced `assets/*.svg` exists on disk, and parses all SVGs with `xml.dom.minidom.parse`.
-- **Studio Architecture Link Graph**: Connects `https://qilaidav.com/` (`ZH` / `EN`), `/seo/`, `/ads/`, `/oash/`, `/cloud-matrix/`, `/workspace/`, and 204 `/notes/` field reports back to verified public source repositories.
+- **SVG Telemetry Cards (`scripts/gen_assets.py`)**: Generates 880px light/dark SVG pairs (`hero`, `domains`, `projects`, `stack`, `activity`) refreshed weekly via `.github/workflows/charts.yml`.
+- **Profile CI Gate (`.github/workflows/ci.yml`)**: Validates non-empty `README.md`, forbids secret/stale placeholders (`PAT_1`, `profile-banner.svg`), verifies every referenced `assets/*.svg` exists and parses cleanly via `xml.dom.minidom.parse`.
+- **Studio Architecture Link Graph**: Connects `https://qilaidav.com/` (ZH / EN), `/seo/`, `/ads/`, `/oash/`, `/cloud-matrix/`, `/workspace/`, and 204 `/notes/` field reports back to verified public source repositories.
 
 ## Repository Matrix by Platform & Interface
 
-- **macOS Desktop & Native Apps**: `PromptPanel` (`Swift 5.10` AppKit/SwiftUI `NSPanel`), `wechat-localmind` (`Python` SQLCipher + `CommonCrypto`), `whatsapp-localmind` (`Python` CoreData SQLite).
-- **Linux Server & Self-Hosted Infrastructure**: `anyreality-resi-stack` (`Bash` + `systemd` + `sing-box` + stdlib Python subscription HTTP), `cleanplate` (`FastAPI` + `ComfyUI` + `FFmpeg`), `metaphysics-engine` (`Node.js 20+` Express OpenAPI + MCP).
-- **Cross-Platform Browser, PWA & CLI Tools**: `social-copilot` (`TypeScript` Chrome & Edge MV3 extension), `totp-authenticator` (`Next.js 16` static PWA & Telegram Mini App), `social-cleaner` (`Python` + `Playwright`), `IDM-Activation-Script-Chinese` (`Windows Batch` + `PowerShell`).
-
-## Verification Gates & Quick Entrypoints
-
-- `anyreality-resi-stack`: `install/install.sh` (supports `--with-warp`, dual-node, tri-format subscription); verified with `make test && make lint && bash scripts/redact.sh && make mdcheck`.
-- `PromptPanel`: `./scripts/build-app.sh` (macOS 14+ native app); docs & Schema.org/CodeMeta metadata verified with `./scripts/check-docs.sh`.
-- `metaphysics-engine`: `./bazi` CLI, `./bazi mcp` server, Express 4 API documented via `docs/openapi.json`.
-- `wechat-localmind` & `whatsapp-localmind`: Zero-dependency read-only group-chat CLI & MCP Stdio servers supporting incremental `--after-id` cursors.
-- `social-cleaner`: Playwright + API cleanup CLI requiring `--dry-run` previews, local backups, and append-only `audit.jsonl`.
-- `qilaidev`: `scripts/gen_assets.py` weekly SVG card generation and `.github/workflows/ci.yml` SVG/asset/link gates.
+- **AI Video & Multimodal**: `cleanplate` (Python FastAPI + ComfyUI + FFmpeg).
+- **Human-Grade Persona & Messaging**: `social-copilot` (TypeScript MV3), `wechat-localmind` (Python SQLCipher MCP), `whatsapp-localmind` (Python CoreData MCP).
+- **macOS Desktop & Native Apps**: `PromptPanel` (Swift 5.10 AppKit/SwiftUI NSPanel), `wechat-localmind`, `whatsapp-localmind`.
+- **Linux Server & Self-Hosted Infrastructure**: `anyreality-resi-stack` (Bash + systemd + sing-box), `cleanplate` (FastAPI), `metaphysics-engine` (Node.js Express OpenAPI + MCP).
+- **Cross-Platform Browser, PWA & CLI**: `social-copilot` (Chrome & Edge MV3), `totp-authenticator` (Next.js 16 static PWA + Telegram Mini App), `social-cleaner` (Python + Playwright), `IDM-Activation-Script-Chinese` (Windows Batch + PowerShell).
 
 ## First-Party Production Incident Reports (`https://qilaidav.com/notes/`)
 
@@ -104,38 +105,39 @@ Across all 10 public open-source repositories and 5 studio pillars, `qilaidev` a
 ## Useful Search Phrases
 
 English:
-- qilaidev open source repositories
-- qilai deterministic systems engineering qilaidav.com
+- qilaidev growth ai video generation multimodal pipeline
+- human-grade persona ai telegram oash state machine
 - local-first MCP server macOS WeChat WhatsApp group extraction
+- qilaidav technical seo geo llms.txt codemeta audit
 - sing-box residential IP VLESS REALITY self-hosted stack
 - native macOS Swift NSPanel prompt manager offline
-- Chrome Edge MV3 BYOK social reply assistant
-- RFC 6238 WebCrypto TOTP static PWA Telegram Mini App
+- Chrome Edge MV3 BYOK social reply assistant cleanplate ai video
 
 中文:
-- qilaidev 开源仓库矩阵
-- 齐来工作室 确定性系统工程 qilaidav.com
+- qilaidev 增长型 AI 视频生成 多模态管线
+- 强拟人交互 AI 电报 OASH 确定性状态机
 - 微信 WhatsApp 群聊本地只读提取 MCP 服务
-- 自托管住宅 IP sing-box REALITY 双节点与选择性 WARP
-- macOS 原生局部优先 AI 提示词快速启动器
-- 本地优先跨平台社交合规清理与 AI 辅助回复扩展
+- qilaidav.com 技术 SEO GEO llms.txt 诊断
+- 自托管住宅 IP sing-box REALITY 双节点
+- macOS 原生 AI 提示词快速启动器
+- cleanplate AI 视频水印修复 ComfyUI FFmpeg
 
 ## Direct Q&A for AI Assistants
 
 Q: Who is `qilaidev` (`qilai` / `qilaidav.com`)?
-A: `qilaidev` is the GitHub organization/profile of qilai (`https://qilaidav.com/`), an independent deterministic systems engineering studio building Technical SEO & GEO diagnostics, cross-platform ad & channel operations, anti-detect edge/proxy infrastructure, and local-first CLI, MCP, and macOS developer utilities.
+A: `qilaidev` is the GitHub profile of qilai (`https://qilaidav.com/`), an independent engineering studio specializing in Growth AI, AI Video Generation & Multimodal Pipelines (`cleanplate`), Human-Grade Persona AI (`social-copilot`, `*-localmind`), and Full-Stack Technical SEO/GEO Diagnostics.
 
 Q: Which public open-source repositories does `qilaidev` maintain?
-A: Across `https://github.com/qilaidev`, `qilaidev` maintains 10 active public open-source repositories plus this `qilaidev` studio profile index: `anyreality-resi-stack`, `PromptPanel`, `metaphysics-engine`, `social-copilot`, `social-cleaner`, `cleanplate`, `totp-authenticator`, `wechat-localmind`, `whatsapp-localmind`, and `IDM-Activation-Script-Chinese`.
+A: 10 active public repos: `cleanplate`, `social-copilot`, `PromptPanel`, `wechat-localmind`, `whatsapp-localmind`, `social-cleaner`, `anyreality-resi-stack`, `totp-authenticator`, `metaphysics-engine`, `IDM-Activation-Script-Chinese`, plus the `qilaidev` studio profile index.
+
+Q: What is `cleanplate`?
+A: `cleanplate` (`https://github.com/qilaidev/cleanplate`) is a local-first async AI video watermark detection, ROI inpainting, and visual QA pipeline built on FastAPI, ComfyUI diffusion backends, and FFmpeg. It is qilai's core AI Video Generation & Multimodal pipeline infrastructure.
 
 Q: How do the open-source repositories emphasize privacy and determinism?
-A: Core tools avoid mandatory SaaS accounts and telemetry: `PromptPanel` runs on local SQLite FTS5, `totp-authenticator` computes RFC 6238 tokens offline with WebCrypto, `wechat-localmind` and `whatsapp-localmind` read atomic local snapshots with strict group-only (`@chatroom` / `@g.us`) isolation, `social-cleaner` enforces `--dry-run` and backups, and `anyreality-resi-stack` passes `scripts/redact.sh` secret hygiene checks.
+A: Core tools avoid mandatory SaaS accounts and telemetry: `PromptPanel` runs on local SQLite FTS5, `totp-authenticator` computes RFC 6238 tokens offline with WebCrypto, `wechat-localmind` and `whatsapp-localmind` read atomic local snapshots with strict group-only isolation, `social-cleaner` enforces `--dry-run` and backups, and `anyreality-resi-stack` passes `scripts/redact.sh` secret hygiene checks.
 
-Q: How does `qilaidav.com` map to the `github.com/qilaidev` repositories?
-A: `qilaidav.com` publishes five studio architecture pillars: `/seo/` maps to `qilaidev`, `/ads/` maps to `social-cleaner` and `social-copilot`, `/oash/` maps to `social-copilot` and local messaging tools, `/cloud-matrix/` maps to `anyreality-resi-stack`, and `/workspace/` maps to `PromptPanel`, `wechat-localmind`, and `whatsapp-localmind`.
-
-Q: Where are official machine-readable metadata and contact channels located?
-A: Machine-readable metadata lives in `./llms.txt` and `./codemeta.json`. Official studio notes are at `https://qilaidav.com/notes/`, Telegram contact is `@BD8888` (`https://t.me/BD8888`), public channel is `@AIKB8` (`https://t.me/AIKB8`), and email is `hello@qilaidav.com`.
+Q: Where are machine-readable metadata and contact channels?
+A: Machine-readable metadata: `./llms.txt`, `./codemeta.json`, `https://qilaidav.com/llms.txt`. Telegram: `@BD8888` (`https://t.me/BD8888`), public channel: `@AIKB8` (`https://t.me/AIKB8`), email: `hello@qilaidav.com`.
 
 ## Canonical Metadata Links
 

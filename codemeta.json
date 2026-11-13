@@ -2,8 +2,8 @@
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
   "@type": "SoftwareSourceCode",
   "identifier": "https://github.com/qilaidev/qilaidev",
-  "name": "qilaidev (qilai · qilaidav.com) — Deterministic Systems & Open-Source Ecosystem",
-  "description": "GitHub studio profile, automated SVG telemetry generator, and technical architecture index for qilai (qilaidav.com) spanning Technical SEO & GEO diagnostics, local-first CLI/MCP tools, macOS native productivity apps, and edge proxy infrastructure.",
+  "name": "qilaidev (qilai · qilaidav.com) — Growth AI, Human-Grade Persona Systems, AI Video Pipelines & Technical SEO/GEO Engineering",
+  "description": "GitHub studio profile, automated SVG telemetry generator, and architecture index for qilai (qilaidav.com) — specializing in Growth AI, AI Video Generation & Multimodal Pipelines (cleanplate), Human-Grade Persona AI (social-copilot, *-localmind), and Full-Stack Technical SEO/GEO Diagnostics.",
   "url": "https://qilaidav.com/",
   "codeRepository": "https://github.com/qilaidev/qilaidev",
   "issueTracker": "https://github.com/qilaidev/qilaidev/issues",
@@ -26,7 +26,11 @@
   "keywords": [
     "qilaidev",
     "qilaidav",
-    "systems-engineering",
+    "growth-ai",
+    "ai-video",
+    "multimodal-pipeline",
+    "persona-ai",
+    "human-grade-persona",
     "technical-seo",
     "geo",
     "aeo",
@@ -36,9 +40,7 @@
     "mcp-server",
     "agent-cli",
     "local-first",
-    "anti-detect",
     "automation",
-    "telegram-automation",
     "open-source"
   ],
   "author": [
@@ -50,6 +52,8 @@
       "email": "hello@qilaidav.com",
       "sameAs": [
         "https://qilaidav.com/",
+        "https://qilaidav.com/en/",
+        "https://qilaidav.com/about/",
         "https://github.com/qilaidev",
         "https://t.me/AIKB8",
         "https://t.me/BD8888"
@@ -70,11 +74,19 @@
   "hasPart": [
     {
       "@type": "SoftwareSourceCode",
-      "name": "anyreality-resi-stack",
-      "codeRepository": "https://github.com/qilaidev/anyreality-resi-stack",
-      "programmingLanguage": ["Shell", "Python"],
-      "license": "https://spdx.org/licenses/GPL-3.0-only",
-      "description": "Multi-path self-hosted sing-box deployment stack with VLESS+REALITY+Vision, Hysteria2, WS+CDN, dual-node routing, selective WARP egress, and adaptive tri-format subscription."
+      "name": "cleanplate",
+      "codeRepository": "https://github.com/qilaidev/cleanplate",
+      "programmingLanguage": "Python",
+      "license": "https://spdx.org/licenses/MIT",
+      "description": "Local-first async AI video watermark detection, ROI inpainting, and visual QA pipeline built on FastAPI, ComfyUI, and FFmpeg. Core AI Video Generation & Multimodal Pipeline infrastructure."
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "name": "social-copilot",
+      "codeRepository": "https://github.com/qilaidev/social-copilot",
+      "programmingLanguage": "TypeScript",
+      "license": "https://spdx.org/licenses/MIT",
+      "description": "Local-first BYOK AI social reply extension for Chrome and Edge (Telegram Web, WhatsApp Web, Slack Web) with Human-Grade Persona context adapters."
     },
     {
       "@type": "SoftwareSourceCode",
@@ -86,19 +98,19 @@
     },
     {
       "@type": "SoftwareSourceCode",
-      "name": "metaphysics-engine",
-      "codeRepository": "https://github.com/qilaidev/metaphysics-engine",
-      "programmingLanguage": "JavaScript",
+      "name": "wechat-localmind",
+      "codeRepository": "https://github.com/qilaidev/wechat-localmind",
+      "programmingLanguage": "Python",
       "license": "https://spdx.org/licenses/MIT",
-      "description": "Stateless Chinese metaphysics charting and calculation engine (BaZi, Zi Wei Dou Shu, Qi Men Dun Jia, Liu Yao, Da Liu Ren) with OpenAPI, CLI, and MCP server."
+      "description": "Zero-dependency read-only WeChat 3.x/4.x group chat extractor and MCP Stdio server with SQLCipher offline decryption and strict DM isolation. Human-Grade Persona intelligence layer."
     },
     {
       "@type": "SoftwareSourceCode",
-      "name": "social-copilot",
-      "codeRepository": "https://github.com/qilaidev/social-copilot",
-      "programmingLanguage": "TypeScript",
+      "name": "whatsapp-localmind",
+      "codeRepository": "https://github.com/qilaidev/whatsapp-localmind",
+      "programmingLanguage": "Python",
       "license": "https://spdx.org/licenses/MIT",
-      "description": "Local-first BYOK AI social reply extension for Chrome and Edge (Telegram Web, WhatsApp Web, Slack Web) with context adapters."
+      "description": "Zero-dependency read-only macOS WhatsApp group chat extractor and MCP Stdio server using atomic sqlite3_backup snapshots and strict DM isolation."
     },
     {
       "@type": "SoftwareSourceCode",
@@ -110,11 +122,11 @@
     },
     {
       "@type": "SoftwareSourceCode",
-      "name": "cleanplate",
-      "codeRepository": "https://github.com/qilaidev/cleanplate",
-      "programmingLanguage": "Python",
-      "license": "https://spdx.org/licenses/MIT",
-      "description": "Local-first async AI video watermark detection, inpainting, and QA pipeline built on FastAPI, ComfyUI, and FFmpeg."
+      "name": "anyreality-resi-stack",
+      "codeRepository": "https://github.com/qilaidev/anyreality-resi-stack",
+      "programmingLanguage": ["Shell", "Python"],
+      "license": "https://spdx.org/licenses/GPL-3.0-only",
+      "description": "Multi-path self-hosted sing-box deployment stack with VLESS+REALITY+Vision, Hysteria2, WS+CDN, dual-node routing, selective WARP egress, and adaptive tri-format subscription."
     },
     {
       "@type": "SoftwareSourceCode",
@@ -122,23 +134,15 @@
       "codeRepository": "https://github.com/qilaidev/totp-authenticator",
       "programmingLanguage": "TypeScript",
       "license": "https://spdx.org/licenses/MIT",
-      "description": "Pure-static offline-first RFC 6238 2FA TOTP authenticator PWA and Telegram Mini App powered by browser WebCrypto."
+      "description": "Pure-static offline-first RFC 6238 2FA TOTP authenticator PWA and Telegram Mini App powered by browser WebCrypto with zero telemetry."
     },
     {
       "@type": "SoftwareSourceCode",
-      "name": "wechat-localmind",
-      "codeRepository": "https://github.com/qilaidev/wechat-localmind",
-      "programmingLanguage": "Python",
+      "name": "metaphysics-engine",
+      "codeRepository": "https://github.com/qilaidev/metaphysics-engine",
+      "programmingLanguage": "JavaScript",
       "license": "https://spdx.org/licenses/MIT",
-      "description": "Zero-dependency read-only WeChat 3.x/4.x group chat extractor and MCP Stdio server with SQLCipher offline decryption and strict DM isolation."
-    },
-    {
-      "@type": "SoftwareSourceCode",
-      "name": "whatsapp-localmind",
-      "codeRepository": "https://github.com/qilaidev/whatsapp-localmind",
-      "programmingLanguage": "Python",
-      "license": "https://spdx.org/licenses/MIT",
-      "description": "Zero-dependency read-only macOS WhatsApp group chat extractor and MCP Stdio server using atomic sqlite3_backup snapshots and strict DM isolation."
+      "description": "Stateless Chinese metaphysics charting and calculation engine (BaZi, Zi Wei Dou Shu, Qi Men Dun Jia, Liu Yao, Da Liu Ren) with OpenAPI, CLI, and MCP server."
     },
     {
       "@type": "SoftwareSourceCode",
