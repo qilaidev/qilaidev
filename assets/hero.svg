@@ -13,9 +13,8 @@ text{font-family:-apple-system, BlinkMacSystemFont, 'Inter', 'SF Pro Text', 'Pin
 </style>
 <rect x="0.5" y="0.5" width="879" height="267" rx="12" fill="#FFFFFF" stroke="#E2E6EE"/>
 <text x="32" y="52" font-size="32px" font-weight="600" fill="#111827">qilai</text>
-<text x="127" y="52" font-size="32px" font-weight="400" fill="#6B7487">·</text>
-<text x="147" y="52" class="mono" font-size="13px" font-weight="500" fill="#0055B3">qilaidav.com</text>
-<circle cx="143" cy="48" r="2.5" fill="#0055B3"/>
+<circle cx="116" cy="43" r="2.5" fill="#0055B3"/>
+<text x="128" y="52" class="mono" font-size="13px" font-weight="500" fill="#0055B3">qilaidav.com</text>
 <text x="32" y="80" font-size="12.5px" font-weight="500" fill="#4B5565">增长型 AI · 强拟人交互 · AI 视频生成 · 技术 SEO/GEO</text>
 <text x="32" y="104" font-size="11.5px" fill="#6B7487">把 AI 增长投流、多模态视频管线、强拟人交互状态机</text>
 <text x="32" y="120" font-size="11.5px" fill="#6B7487">与高信噪比 SEO/GEO 诊断，锻造成长期自运转的确定性系统</text>
@@ -42,7 +41,7 @@ text{font-family:-apple-system, BlinkMacSystemFont, 'Inter', 'SF Pro Text', 'Pin
 <line x1="540" y1="184" x2="840" y2="184" stroke="#ECEFF4"/>
 <text x="544" y="206" class="mono" font-size="14px" font-weight="600" fill="#111827">11</text>
 <text x="544" y="220" class="mono" font-size="9px" font-weight="400" fill="#6B7487">Public repos</text>
-<text x="620" y="206" class="mono" font-size="14px" font-weight="600" fill="#111827">485</text>
+<text x="620" y="206" class="mono" font-size="14px" font-weight="600" fill="#111827">486</text>
 <text x="620" y="220" class="mono" font-size="9px" font-weight="400" fill="#6B7487">52w commits</text>
 <text x="696" y="206" class="mono" font-size="14px" font-weight="600" fill="#111827">14</text>
 <text x="696" y="220" class="mono" font-size="9px" font-weight="400" fill="#6B7487">Languages</text>

@@ -404,10 +404,10 @@ def render_hero(theme: str, d: dict) -> str:
     # ── Left column: brand + manifesto (x=32..496) ──
     lx = PAD + 4  # 32
     out.append(f'<text x="{lx}" y="52" font-size="32px" font-weight="600" fill="{c["ink"]}">qilai</text>')
-    ql_w = tw("qilai", 32) + 12
-    out.append(f'<text x="{lx + ql_w:.0f}" y="52" font-size="32px" font-weight="400" fill="{c["muted"]}">·</text>')
-    out.append(f'<text x="{lx + ql_w + 20:.0f}" y="52" class="mono" font-size="13px" font-weight="500" fill="{c["accent"]}">{WEBSITE}</text>')
-    out.append(f'<circle cx="{lx + ql_w + 16:.0f}" cy="48" r="2.5" fill="{c["accent"]}"/>')
+    # "qilai" at 32px sans-serif (narrow i/l) renders ~72px wide (ends ~x=104)
+    dot_x = lx + 84  # 116 (~12px after "qilai")
+    out.append(f'<circle cx="{dot_x}" cy="43" r="2.5" fill="{c["accent"]}"/>')
+    out.append(f'<text x="{dot_x + 12}" y="52" class="mono" font-size="13px" font-weight="500" fill="{c["accent"]}">{WEBSITE}</text>')
 
     # Role headline
     role = "增长型 AI · 强拟人交互 · AI 视频生成 · 技术 SEO/GEO"
