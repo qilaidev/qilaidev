@@ -94,7 +94,7 @@
       "codeRepository": "https://github.com/qilaidev/wechat-localmind",
       "programmingLanguage": "Python",
       "license": "https://spdx.org/licenses/MIT",
-      "description": "Zero-dependency read-only WeChat 3.x/4.x group chat extractor and MCP Stdio server with SQLCipher offline decryption and strict DM isolation. Human-Grade Persona intelligence layer."
+      "description": "Zero-dependency full-account local read-only WeChat 3.x/4.x chat history extractor and MCP Stdio server (1-on-1 DMs, groups, official accounts, and media) with SQLCipher offline decryption and configurable chat_scope / blacklist-whitelist privacy controls. Human-Grade Persona intelligence layer."
     },
     {
       "@type": "SoftwareSourceCode",
@@ -102,7 +102,7 @@
       "codeRepository": "https://github.com/qilaidev/whatsapp-localmind",
       "programmingLanguage": "Python",
       "license": "https://spdx.org/licenses/MIT",
-      "description": "Zero-dependency read-only macOS WhatsApp group chat extractor and MCP Stdio server using atomic sqlite3_backup snapshots and strict DM isolation."
+      "description": "Zero-dependency full-account local read-only macOS WhatsApp chat history extractor and MCP Stdio server (1-on-1 DMs, groups, channels, and media) using atomic sqlite3_backup snapshots and configurable chat_scope / blacklist-whitelist privacy controls."
     },
     {
       "@type": "SoftwareSourceCode",
@@ -118,7 +118,7 @@
       "codeRepository": "https://github.com/qilaidev/anyreality-resi-stack",
       "programmingLanguage": ["Shell", "Python"],
       "license": "https://spdx.org/licenses/GPL-3.0-only",
-      "description": "Multi-path self-hosted sing-box deployment stack with VLESS+REALITY+Vision, Hysteria2, WS+CDN, dual-node routing, selective WARP egress, and adaptive tri-format subscription."
+      "description": "Self-hosted multi-path sing-box edge gateway and WAN transport resilience stack with VLESS+REALITY+Vision, Hysteria2, WS+CDN, dual-node split-egress routing, selective WARP egress, and adaptive tri-format subscription."
     },
     {
       "@type": "SoftwareSourceCode",

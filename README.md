@@ -48,10 +48,10 @@
 |---|---|---|
 | **[cleanplate](https://github.com/qilaidev/cleanplate)** | AI 视频水印检测、ROI 修复与视觉 QA 管线 | Python · FastAPI · ComfyUI · FFmpeg |
 | **[PromptPanel](https://github.com/qilaidev/PromptPanel)** | macOS 原生 AI 提示词快速启动器 | Swift 5.10 · AppKit · SwiftUI · SQLite |
-| **[wechat-localmind](https://github.com/qilaidev/wechat-localmind)** | 微信群聊只读提取与 MCP Stdio 服务 | Python · SQLCipher 3/4 · MCP |
-| **[whatsapp-localmind](https://github.com/qilaidev/whatsapp-localmind)** | WhatsApp 群聊只读提取与 MCP Stdio 服务 | Python · SQLite · CoreData · MCP |
+| **[wechat-localmind](https://github.com/qilaidev/wechat-localmind)** | 微信全量聊天记录本地只读提取与 MCP Stdio 服务 | Python · SQLCipher 3/4 · MCP |
+| **[whatsapp-localmind](https://github.com/qilaidev/whatsapp-localmind)** | WhatsApp 全量聊天记录本地只读提取与 MCP Stdio 服务 | Python · SQLite · CoreData · MCP |
 | **[social-cleaner](https://github.com/qilaidev/social-cleaner)** | 跨平台社交合规清理 CLI（B 站 · X/Twitter） | Python · Playwright |
-| **[anyreality-resi-stack](https://github.com/qilaidev/anyreality-resi-stack)** | 自托管住宅 IP sing-box 多路代理部署栈 | Shell · Python · systemd |
+| **[anyreality-resi-stack](https://github.com/qilaidev/anyreality-resi-stack)** | 自托管多路径 sing-box 边缘网关与双栈路由部署栈 | Shell · Python · systemd |
 | **[totp-authenticator](https://github.com/qilaidev/totp-authenticator)** | 纯静态离线 2FA TOTP PWA · Telegram Mini App | TypeScript · Next.js · WebCrypto |
 | **[metaphysics-engine](https://github.com/qilaidev/metaphysics-engine)** | 中国命理无状态引擎 · OpenAPI + MCP | JavaScript · Node.js · Express |
 
