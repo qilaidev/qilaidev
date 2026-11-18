@@ -3,7 +3,7 @@
   "@type": "SoftwareSourceCode",
   "identifier": "https://github.com/qilaidev/qilaidev",
   "name": "qilaidev (qilai · qilaidav.com) — Growth AI, Human-Grade Persona Systems, AI Video Pipelines & Technical SEO/GEO Engineering",
-  "description": "GitHub studio profile, automated SVG telemetry generator, and architecture index for qilai (qilaidav.com) — specializing in Growth AI, AI Video Generation & Multimodal Pipelines (cleanplate), Human-Grade Persona AI (social-copilot, *-localmind), and Full-Stack Technical SEO/GEO Diagnostics.",
+  "description": "GitHub studio profile, automated SVG telemetry generator, and architecture index for qilai (qilaidav.com) — specializing in Growth AI, AI Video Generation & Multimodal Pipelines (cleanplate), Human-Grade Persona AI (wechat-localmind, whatsapp-localmind), and Full-Stack Technical SEO/GEO Diagnostics.",
   "url": "https://qilaidav.com/",
   "codeRepository": "https://github.com/qilaidev/qilaidev",
   "issueTracker": "https://github.com/qilaidev/qilaidev/issues",
@@ -79,14 +79,6 @@
       "programmingLanguage": "Python",
       "license": "https://spdx.org/licenses/MIT",
       "description": "Local-first async AI video watermark detection, ROI inpainting, and visual QA pipeline built on FastAPI, ComfyUI, and FFmpeg. Core AI Video Generation & Multimodal Pipeline infrastructure."
-    },
-    {
-      "@type": "SoftwareSourceCode",
-      "name": "social-copilot",
-      "codeRepository": "https://github.com/qilaidev/social-copilot",
-      "programmingLanguage": "TypeScript",
-      "license": "https://spdx.org/licenses/MIT",
-      "description": "Local-first BYOK AI social reply extension for Chrome and Edge (Telegram Web, WhatsApp Web, Slack Web) with Human-Grade Persona context adapters."
     },
     {
       "@type": "SoftwareSourceCode",

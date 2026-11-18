@@ -95,9 +95,6 @@ PROJECTS = [
     ("cleanplate",
      "AI 视频水印检测、ComfyUI/FFmpeg 时序修复与视觉质检流水线",
      ["FastAPI", "ComfyUI", "FFmpeg"]),
-    ("social-copilot",
-     "Telegram / WhatsApp / Slack Web 本地优先 BYOK 强拟人回复扩展",
-     ["TypeScript", "MV3"]),
     ("PromptPanel",
      "macOS 14+ 原生全局热键多模型提示词与上下文工作台",
      ["Swift", "SQLite FTS5"]),
@@ -110,6 +107,9 @@ PROJECTS = [
     ("anyreality-resi-stack",
      "无面板多路径 sing-box 住宅代理与十阶段选择性 WARP 运维栈",
      ["Shell", "Python", "systemd"]),
+    ("totp-authenticator",
+     "纯静态离线优先 RFC 6238 2FA 验证器 PWA 与 Telegram Mini App",
+     ["TypeScript", "WebCrypto"]),
 ]
 
 # ── Stack lanes (domain-centric) ────────────────────────────────────────
